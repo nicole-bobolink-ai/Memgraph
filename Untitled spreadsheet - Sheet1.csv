@@ -1,0 +1,6908 @@
+id,name
+0,Frontend
+1,Backend
+2,DevOps
+3,Full Stack
+4,AI EngineerNew
+5,Data Analyst
+6,AI and Data Scientist
+7,Android
+8,iOS
+9,PostgreSQL
+10,Blockchain
+11,QA
+12,Software Architect
+13,Cyber Security
+14,UX Design
+15,Game Developer
+16,Technical Writer
+17,MLOps
+18,Product Manager
+19,Engineering Manager
+20,Developer Relations
+21,SQL
+22,Computer Science
+23,React
+24,Vue
+25,Angular
+26,JavaScript
+27,Node.js
+28,TypeScript
+29,Python
+30,System Design
+31,API Design
+32,ASP.NET Core
+33,Java
+34,C++
+35,Flutter
+36,Spring Boot
+37,Go Roadmap
+38,Rust
+39,GraphQL
+40,Design and Architecture
+41,Design System
+42,React Native
+43,AWS
+44,Code Review
+45,Docker
+46,Kubernetes
+47,Linux
+48,MongoDB
+49,Prompt Engineering
+50,Terraform
+51,Data Structures & Algorithms
+52,Git and GitHub
+53,Redis
+54,PHP
+55,CloudflareNew
+56,AI AgentsNew
+57,Backend Performance
+58,Frontend Performance
+59,API Security
+60,Code Reviews
+61,AWS
+62,Internet
+63,HTML
+64,CSS
+65,JavaScript
+66,Version Control Systems
+67,VCS Hosting
+68,Package Managers
+69,Pick a Framework
+70,Writting CSS
+71,CSS Architecture
+72,CSS Processors
+73,Build Tools
+74,Linters and Formatters
+75,Module Blunders
+76,Testing
+77,Authentication Strategies
+78,Web Security Basics
+79,Web Components
+80,Type Checkers
+81,SSR
+82,GraphQL
+83,PWAs
+84,Static Site Generators
+85,Mobile Apps
+86,Desktop Apps
+87,How does the interneet work
+88,What is HTTP
+89,What is a Domain Name
+90,What is a Hosting
+91,DSN and How it Wokrs
+92,Browsers and How they Work
+93,HTML Basics
+94,HTML Semantics
+95,Forms and Validations
+96,Accesibility
+97,SEO Basics
+98,CSS Basics
+99,Making Layouts
+100,Responsive Design
+101,JavaScript Basics
+102,DOM Manipulation
+103,Fetch API / Ajax (XHR)
+104,Git
+105,GitHub
+106,GitLab
+107,BitBucket
+109,npm
+110,pnpm
+111,yarn
+112,React
+113,Vue.js
+114,Angular
+115,Svelitie
+116,Solid JS
+117,Qwik
+118,Tailwind
+119,BEM
+120,SaaS
+121,PostCSS
+122,Prettier
+123,ESLint
+124,Vite
+125,SWC
+126,esBuild
+127,Wepack
+128,Rollup
+129,Parcel
+130,Playwright
+131,Cypress
+132,Jest
+133,Vitest
+134,JWT
+135,OAuth
+136,SSO
+137,Basic Auth
+138,Session Auth
+139,HTML Templates
+140,Costume Elements
+141,Shadow DOM
+142,TypesScript
+143,React
+144,Angular
+145,VueJS
+146,Svelte
+147,Next JS
+148,Astro
+149,React-Router
+150,Nuxt.js
+151,Svelite KIT
+152,Apollo
+153,Relay Modern
+154,Meassure & Improve Performance
+155,Browser API
+156,PRPL Patern
+157,Rail Model
+158,Performance Metrics
+159,Using Lighthouse
+160,Using Dev Tools
+161,Storage
+162,Web Sockets
+163,Server Sent Events
+164,Service Workers
+165,Location
+166,Notification
+167,Device Orientation
+168,Payment
+169,Credentials
+170,Eleventy
+171,Vuepress
+172,Next.js
+173,Astro
+174,Nuxt.js
+175,REACT NATIVE
+176,Flutter
+177,Ionic
+178,Electron
+179,Tauri
+180,Flutter
+181,CLI Tools
+182,Vite
+183,Components
+184,Functional Components
+185,JSX
+186,Props vs State
+187,Conditional Rendering
+188,Composition
+189,Rendering
+190,Component Lifecycle
+191,Lists and Keys
+192,Render Props
+193,Refs
+194,Events
+195,High Order Components
+196,Hooks
+197,useState
+198,useEffect
+199,Creating Custom Hooks
+200,useCallback
+201,useRef
+202,useMemo
+203,useReducer
+204,useContext
+205,useState
+206,Hooks Best Practices
+207,Routers
+208,Tanstack Router
+209,React Router
+210,State Management
+211,Context
+212,Zustand
+213,Jotai
+214,Writing CSS
+215,Headless Component Libraries
+216,Tailwind CSS
+217,Component / Libraries
+218,Panda CSS
+219,Chakra UI
+220,Material UI
+221,Shadcn UI
+222,CSS Modules
+223,Radix UI
+224,React Aria
+225,Ark UI
+226,API Calls
+227,Apollo
+228,Relay
+229,urql
+230,swr
+231,react-query
+232,Axios
+233,rtk-query
+234,Testing
+235,Jest
+236,Vitest
+237,react-testing-library
+238,Cypress
+239,Playwright
+240,Frameworks
+241,Next.js
+242,Astro
+243,react-router
+244,Forms
+245,React Hook Form
+246,Formik
+247,Types & Validation
+248,TypeScript
+249,Zod
+250,Animation
+251,Server APIs
+252,Framer Motion
+253,react spring
+254,GSock
+255,Suspense
+256,Portals
+257,Error Boundaries
+258,Mobile Applications
+259,React Native
+260,MobX
+261,What is JavaScript
+262,History of JavaScript
+263,JavaScript Versions
+264,How to run JavaScript
+265,Variable Declarations
+266,Hoisting
+267,Variable Naming Rules
+268,Variable Scopes
+269,var
+270,let
+271,const
+272,Block
+273,Function
+274,Global
+275,All about Variables
+276,Data Types
+277,string
+278,undefined
+279,number
+280,bigint
+281,boolean
+282,null
+283,Symbol
+284,Object
+285,Object Prototype
+286,Prototypal Inheritance
+287,typeof operator
+288,Built-in Objects
+289,Type Casting
+290,Type Conversion vs Coercion
+291,Explicit Type Casting
+292,Implicit Type Casting
+293,Data Structures
+294,Keyed Collections
+295,Map
+296,Weak Map
+297,Set
+298,Weak Set
+299,Indexed Collections
+300,Typed Arrays
+301,Arrays
+302,Structured Data
+303,JSON
+304,Equality Comparisons
+307,Object.is
+308,isLooselyEqual
+309,isStrictlyEqual
+310,SameValueZero
+311,Loops and Iterations
+312,for
+313,do...while
+314,while
+315,for...in loop
+316,for...of loop
+317,break / continue
+318,Control Flow
+319,Exceptional Handling
+320,Conditional Statements
+321,if...else
+322,Switch
+323,throw statement
+324,try/catch/finally
+325,Error Objects
+326,Expressions & Operators
+327,Assignment Operators
+328,Comparison Operators
+329,Arithmetic Operators
+330,Bitwise Operators
+331,Logical Operators
+332,BigInt Operators
+333,String Operators
+334,Conditional Operators
+335,Comma Operators
+336,Unary Operators
+337,Functions
+338,Function Parameters
+339,Arrow Functions
+340,IIFEs
+341,arguments object
+342,Scope & Function Stack
+343,Built-in Functions
+344,Default Params
+345,Rest
+346,Recursion
+347,Lexical Scoping
+348,Closures
+349,Strict Mode
+350,Using (this) keyword
+351,in a method
+352,in a function
+353,using it alone
+354,in event handlers
+355,in arrow functions
+356,Function Borrowing
+357,Explicit Binding
+358,call
+359,apply
+360,bind
+361,Asynchronous JavaScript
+362,Event Loop
+363,setTimeout
+364,setInterval
+365,Callbacks
+366,Promises
+367,Callback Hell
+368,async/await
+369,Working with APIs
+370,Fetch
+371,XMLHTTPRequest
+372,Classes
+373,Iterators and Generators
+374,Modules in JavaScript
+375,CommonJS
+376,ESM
+377,Memory Management
+378,Memory Lifecycle
+379,DOM APIs
+380,Garbage Collection
+381,Using Browser DevTools
+382,Debugging Issues
+383,Debugging Memory Leaks
+384,Debugging Performance
+385,SameValue
+,
+386,What are Relational Databases?
+387,RDBMS Benefits and Limitations
+388,Learn the Basics
+389,SQL vs NoSQL Databases
+390,Basic SQL Syntax
+391,SQL Keywords
+392,Data Types
+393,Operators
+394,SELECT
+395,INSERT
+396,UPDATE
+397,DELETE
+398,Data Definition Language (DDL)
+399,Truncate Table
+400,Alter Table
+401,Create Table
+402,Drop Table
+403,Data Manipulation Language (DML)
+404,Select
+405,FROM
+406,WHERE
+407,ORDER BY
+408,GROUP BY
+409,HAVING
+410,JOINs
+411,INSERT
+412,UPDATE
+413,DELETE
+414,Aggregate Queries
+415,SUM
+416,COUNT
+417,AVG
+418,MIN
+419,MAX
+420,GROUP BY
+421,HAVING
+422,Data Constraints
+423,Primary Key
+424,Foreign Key
+425,Unique
+426,NOT NULL
+427,CHECK
+428,JOIN Queries
+429,INNER JOIN
+430,LEFT JOIN
+431,RIGHT JOIN
+432,FULL OUTER JOIN
+433,Self Join
+434,Cross Join
+435,Subqueries
+436,Scalar
+437,Column
+438,Row
+439,Table
+440,Nested Subqueries
+441,Correlated Subqueries
+442,Advanced Functions
+443,FLOOR
+444,ABS
+445,MOD
+446,ROUND
+447,CEILING
+448,CONCAT
+449,LENGTH
+450,SUBSTRING
+451,REPLACE
+452,UPPER
+453,LOWER
+454,CASE
+455,NULLIF
+456,COALESCE
+457,DATE
+458,TIME
+459,TIMESTAMP
+460,DATEPART
+461,DATEADD
+462,Views
+463,Creating Views
+464,Modifying Views
+465,Dropping Views
+466,Indexes
+467,Managing Indexes
+468,Query Optimization
+469,Transactions
+470,BEGIN
+471,COMMIT
+472,ROLLBACK
+473,SAVEPOINT
+474,ACID
+475,Transaction Isolation Levels
+476,Data Integrity & Security
+477,Data Integrity Constraints
+478,GRANT and Revoke
+479,DB Security Best Practices
+480,Stored Procedures & Functions
+481,Performance Optimization
+482,Using Indexes
+483,Optimizing Joins
+484,Reducing Subqueries
+485,Selective Projection
+486,Query Analysis Techniques
+487,Advanced SQL
+488,Recursive Queries
+489,Pivot / Unpivot Operations
+490,Window Functions
+491,Common Table Expressions
+492,Dynamic SQL
+493,Row_number
+494,rank
+495,dense_rank
+496,lead
+497,lag
+498,Internet
+499,How does the internet work?
+500,What is HTTP?
+501,What is Domain Name?
+502,What is hosting?
+503,DNS and how it works?
+504,Browsers and how they work?
+505,HTML
+506,Learn the basics
+507,Writing Semantic HTML
+508,Forms and Validations
+509,Accessibility
+510,SEO Basics
+511,CSS
+512,Learn the basics
+513,Making Layouts
+514,Responsive Design
+515,JavaScript
+516,Fetch API / Ajax (XHR)
+517,Learn DOM Manipulation
+518,Learn the Basics
+519,VCS Hosting
+520,Version Control Systems
+521,Git
+522,Package Managers
+523,GitHub
+524,GitLab
+525,Bitbucket
+526,yarn
+527,pnpm
+528,npm
+529,Pick a Framework
+530,Angular
+531,Vue.js
+532,React
+533,Svelte
+534,Solid JS
+535,Qwik
+536,Writing CSS
+537,Tailwind
+538,CSS Architecture
+539,CSS Preprocessors
+540,BEM
+541,Sass
+542,PostCSS
+543,Build Tools
+544,Linters and Formatters
+545,Module Bundlers
+546,Parcel
+547,Rollup
+548,Webpack
+549,esbuild
+550,Vite
+551,Prettier
+552,ESLint
+553,Testing
+554,Vitest
+555,Jest
+556,Playwright
+557,Cypress
+558,Authentication Strategies
+559,Web Security Basics
+560,CORS
+561,HTTPS
+562,Content Security Policy
+563,OWASP Security Risks
+564,Web Components
+565,Type Checkers
+566,Custom Elements
+567,HTML Templates
+568,Shadow DOM
+569,TypeScript
+570,SSR
+571,Svelte
+572,Vue.js
+573,Angular
+574,React
+575,react-router
+576,Next.js
+577,Nuxt.js
+578,Svelte Kit
+579,GraphQL
+580,Apollo
+581,Relay Modern
+582,Static Site Generators
+583,Vuepress
+584,Nuxt.js
+585,Astro
+586,Eleventy
+587,Next.js
+588,PWAs
+589,Mobile Apps
+590,React Native
+591,Flutter
+592,Ionic
+593,Desktop Apps
+594,Electron
+595,Tauri
+596,Flutter
+597,PRPL Pattern
+598,RAIL Model
+599,Performance Metrics
+600,Using Lighthouse
+601,Using DevTools
+602,Storage
+603,Web Sockets
+604,Server Sent Events
+605,Service Workers
+606,Location
+607,Notifications
+608,Device Orientation
+609,Payments
+610,Credentials
+611,SWC
+612,Astro
+613,Search Engines
+614,Design and Development Principles
+615,Learn about APIs
+616,Internet
+617,Rust
+618,PHP
+619,Go
+620,JavaScript
+621,Java
+622,Python
+623,C#
+624,Ruby
+625,Pick a Language
+626,Git
+627,Version Control Systems
+628,GitHub
+629,Bitbucket
+630,GitLab
+631,Repo Hosting Services
+632,PostgreSQL
+633,MS SQL
+634,MySQL
+635,Oracle
+636,MariaDB
+637,Relational Databases
+638,NoSQL Databases
+639,ORMs
+640,Normalization
+641,ACID
+642,Failure Modes
+643,Transactions
+644,Profiling Perfor.
+645,N+1 Problem
+646,More about Databases
+647,Database Indexes
+648,Sharding Strategies
+649,Data Replication
+650,CAP Theorem
+651,Scaling Databases
+652,HATEOAS
+653,JSON APIs
+654,Open API Specs
+655,SOAP
+656,gRPC
+657,REST
+658,GraphQL
+659,Client Side
+660,CDN
+661,Server Side
+662,Caching
+663,Web Security
+664,Integration Testing
+665,Functional Testing
+666,Unit Testing
+667,Testing
+668,CI / CD
+669,GOF Design Patterns
+670,CQRS
+671,Domain Driven Design
+672,Event Sourcing
+673,Test Driven Development
+674,Monolithic Apps
+675,Serverless
+676,Microservices
+677,Service Mesh
+678,SOA
+679,Twelve Factor Apps
+680,Architectural Patterns
+681,RabbitMQ
+682,Kafka
+683,Message Brokers
+684,LXC
+685,Containerization vs Virtualization
+686,WebSockets
+687,Server Sent Events
+688,Nginx
+689,Caddy
+690,Apache
+691,MS IIS
+692,Web Servers
+693,Building For Scale
+694,Redis
+695,Memcached
+696,MongoDB
+697,CouchDB
+698,Neo4j
+699,Graceful Degradation
+700,Throttling
+701,Backpressure
+702,Loadshifting
+703,Circuit Breaker
+704,Migration Strategies
+705,Types of Scaling
+706,Instrumentation
+707,Monitoring
+708,Telemetry
+709,MD5
+710,SHA
+711,scrypt
+712,bcrypt
+713,HTTPS
+714,OWASP Risks
+715,SSL/TLS
+716,CORS
+717,Server Security
+718,CSP
+719,How does the internet work?
+720,What is HTTP?
+721,What is Domain Name?
+722,What is hosting?
+723,DNS and how it works?
+724,Browsers and how they work?
+725,Authentication
+726,JWT
+727,Basic Authentication
+728,Token Authentication
+729,OAuth
+730,Cookie Based Auth
+731,OpenID
+732,SAML
+733,Elasticsearch
+734,Solr
+735,Real-Time Data
+736,Long Polling
+737,Short Polling
+738,Redis
+739,DynamoDB
+740,Firebase
+741,RethinkDB
+742,SQLite
+743,Influx DB
+744,TimeScale
+745,Cassandra
+746,Base
+747,AWS Neptune
+748,Observability
+749,Migrations
+750,Learn a Programming Language
+751,Python
+752,Ruby
+753,Go
+754,Rust
+755,JavaScript / Node.js
+756,Operating System
+757,Ubuntu / Debian
+758,SUSE Linux
+759,RHEL / Derivatives
+760,FreeBSD
+761,OpenBSD
+762,NetBSD
+763,Windows
+764,Terminal Knowledge
+765,Process Monitoring
+766,Performance Monitoring
+767,Networking Tools
+768,Text Manipulation
+769,Bash
+770,Power Shell
+771,Vim / Nano / Emacs
+772,Version Control Systems
+773,Git
+774,VCS Hosting
+775,GitHub
+776,GitLab
+777,Bitbucket
+778,What is and how to setup X ?
+779,Forward Proxy
+780,Firewall
+781,Nginx
+782,Tomcat
+783,Apache
+784,Caddy
+785,IIS
+786,Caching Server
+787,Load Balancer
+788,Reverse Proxy
+789,Containers
+790,Docker
+791,LXC
+792,Cloud Providers
+793,AWS
+794,Azure
+795,Google Cloud
+796,Digital Ocean
+797,Alibaba Cloud
+798,Hetzner
+799,Heroku
+800,Contabo
+801,FTP / SFTP
+802,DNS
+803,HTTP
+804,HTTPS
+805,SSL / TLS
+806,SSH
+807,White / Grey Listing
+808,SMTP
+809,DMARC
+810,IMAP
+811,SPF
+812,POP3S
+813,Domain Keys
+814,OSI Model
+815,Networking & Protocols
+816,Serverless
+817,Vercel
+818,Cloudflare
+819,Azure Functions
+820,AWS Lambda
+821,Netlify
+822,Provisioning
+823,AWS CDK
+824,CloudFormation
+825,Pulumi
+826,Terraform
+827,Configuration Management
+828,Ansible
+829,Chef
+830,Puppet
+831,CI / CD Tools
+832,GitHub Actions
+833,GitLab CI
+834,Jenkins
+835,Travis CI
+836,Circle CI
+837,Drone
+838,TeamCity
+839,Secret Management
+840,Sealed Secrets
+841,Cloud Specific Tools
+842,Vault
+843,SOPs
+844,Infrastructure Monitoring
+845,Zabbix
+846,Prometheus
+847,Datadog
+848,Grafana
+849,Logs Management
+850,Elastic Stack
+851,Graylog
+852,Splunk
+853,Papertrail
+854,Container Orchestration
+855,GKE / EKS / AKS
+856,AWS ECS / Fargate
+857,Docker Swarm
+858,Artifact Management
+859,Artifactory
+860,Nexus
+861,Cloud Smith
+862,GitOps
+863,ArgoCD
+864,FluxCD
+865,Service Mesh
+866,Istio
+867,Consul
+868,Linkerd
+869,Envoy
+870,Cloud Design Patterns
+871,Availability
+872,Data Management
+873,Design and Implementation
+874,Management and Monitoring
+875,Loki
+876,Kubernetes
+877,GCP Functions
+878,Application Monitoring
+879,Jaeger
+880,New Relic
+881,Datadog
+882,Prometheus
+883,OpenTelemetry
+884,HTML
+885,CSS
+886,JavaScript
+887,npm
+888,Checkpoint - Static Webpages
+889,Checkpoint - Interactivity
+890,Git
+891,GitHub
+892,Checkpoint - External Packages
+893,Tailwind CSS
+894,React
+895,Checkpoint - Collaborative Work
+896,Checkpoint - Frontend Apps
+897,Node.js
+898,Checkpoint — CLI Apps
+899,RESTful APIs
+900,Checkpoint — Simple CRUD Apps
+901,JWT Auth
+902,Redis
+903,Linux Basics
+904,Checkpoint — Complete App
+905,Basic AWS Services
+906,EC2
+907,VPC
+908,Route53
+909,SES
+910,S3
+911,Monit
+912,PostgreSQL
+913,Checkpoint — Deployment
+914,GitHub Actions
+915,Checkpoint — Monitoring
+916,Ansible
+917,Checkpoint — CI / CD
+918,Terraform
+919,Checkpoint — Automation
+920,Checkpoint — Infrastructure
+921,Introduction
+922,What is an AI Engineer?
+923,AI Engineer vs ML Engineer
+924,LLMs
+925,Inference
+926,Training
+927,Embeddings
+928,Vector Databases
+929,RAG
+930,Prompt Engineering
+931,AI Agents
+932,AI vs AGI
+933,Impact on Product Development
+934,Roles and Responsiblities
+935,Pre-trained Models
+936,Benefits of Pre-trained Models
+937,Limitations and Considerations
+938,Open AI Models
+939,Capabilities / Context Length
+940,Cut-off Dates / Knowledge
+941,Anthropic's Claude
+942,Google's Gemini
+943,Azure AI
+944,AWS Sagemaker
+945,Hugging Face Models
+946,Mistral AI
+947,Cohere
+948,OpenAI Models
+949,OpenAI API
+950,Chat Completions API
+951,Writing Prompts
+952,Open AI Playground
+953,Fine-tuning
+954,Maximum Tokens
+955,Token Counting
+956,Pricing Considerations
+957,AI Safety and Ethics
+958,Prompt Injection Attacks
+959,Bias and Fairness
+960,Security and Privacy Concerns
+961,Conducting adversarial testing
+962,OpenAI Moderation API
+963,Adding end-user IDs in prompts
+964,Robust prompt engineering
+965,Know your Customers / Usecases
+966,Constraining outputs and inputs
+967,OpenSource AI
+968,Open vs Closed Source Models
+969,Popular Open Source Models
+970,Hugging Face
+971,Hugging Face Hub
+972,Hugging Face Tasks
+973,Inference SDK
+974,Transformers.js
+975,Ollama
+976,Ollama Models
+977,Ollama SDK
+978,What are Embeddings
+979,Semantic Search
+980,Recommendation Systems
+981,Anomaly Detection
+982,Data Classification
+983,Open AI Embeddings API
+984,Open AI Embedding Models
+985,Pricing Considerations
+986,Open-Source Embeddings
+987,Sentence Transformers
+988,Models on Hugging Face
+989,Vector Databases
+990,Purpose and Functionality
+991,Chroma
+992,Pinecone
+993,Weaviate
+994,FAISS
+995,LanceDB
+996,Qdrant
+997,Supabase
+998,MongoDB Atlas
+999,Indexing Embeddings
+1000,Performing Similarity Search
+1001,RAG & Implementation
+1002,RAG Usecases
+1003,RAG vs Fine-tuning
+1004,Chunking
+1005,Embedding
+1006,Vector Database
+1007,Retrieval Process
+1008,Generation
+1009,Using SDKs Directly
+1010,Langchain
+1011,Llama Index
+1012,Open AI Assistant API
+1013,Replicate
+1014,AI Agents
+1015,Agents Usecases
+1016,ReAct Prompting
+1017,Manual Implementation
+1018,OpenAI Functions / Tools
+1019,OpenAI Assistant API
+1020,Multimodal AI
+1021,Multimodal AI Usecases
+1022,Image Understanding
+1023,Image Generation
+1024,Video Understanding
+1025,Audio Processing
+1026,Text-to-Speech
+1027,Speech-to-Text
+1028,OpenAI Vision API
+1029,DALL-E API
+1030,Whisper API
+1031,Hugging Face Models
+1032,LangChain for Multimodal Apps
+1033,LlamaIndex for Multimodal Apps
+1034,Development Tools
+1035,AI Code Editors
+1036,Code Completion Tools
+1037,Introduction
+1038,What is Data Analytics
+1039,Types of Data Analytics
+1040,Descriptive Analytics
+1041,Diagnostic Analytics
+1042,Predictive Analytics
+1043,Prescriptive Analytics
+1044,Key Concepts of Data
+1045,Collection
+1046,Cleanup
+1047,Exploration
+1048,Visualisation
+1049,Statistical Analysis
+1050,Machine Learning
+1051,Analysis / Reporting with Excel
+1052,IF
+1053,DATEDIF
+1054,VLOOKUP / HLOOKUP
+1055,REPLACE / SUBSTITUTE
+1056,UPPER / LOWER / PROPER
+1057,CONCAT
+1058,TRIM
+1059,AVERAGE
+1060,COUNT
+1061,SUM
+1062,MIN / MAX
+1063,Charting
+1064,Pivot Tables
+1065,Learn a Programming Lang.
+1066,R
+1067,Data Manipulation Libraries
+1068,Pandas
+1069,Data Visualisation Libraries
+1070,Matplotlib
+1071,Dplyr
+1072,Ggplot2
+1073,Data Collection
+1074,Databases
+1075,CSV Files
+1076,APIs
+1077,Web Scraping
+1078,Data Cleanup
+1079,Handling Missing Data
+1080,Removing Duplicates
+1081,Finding Outliers
+1082,Data Transformation
+1083,Pandas
+1084,Dplyr
+1085,Descriptive Analysis
+1086,Dispersion
+1087,Distribution Space
+1088,Mean
+1089,Median
+1090,Mode
+1091,Average
+1092,Range
+1093,Variance
+1094,Standard Deviation
+1095,Skewness
+1096,Kurtosis
+1097,Central Tendency
+1098,Tableau
+1099,Power BI
+1100,Matplotlib
+1101,Seaborn
+1102,ggplot2
+1103,Bar Charts
+1104,Line Chart
+1105,Scatter Plot
+1106,Funnel Charts
+1107,Histograms
+1108,Stacked Charts
+1109,Heatmap
+1110,Pie Charts
+1111,Data Visualisation
+1112,Statistical Analysis
+1113,Hypothesis Testing
+1114,Correlation Analysis
+1115,Regression
+1116,Visualizing Distributions
+1117,Machine Learning
+1118,Reinforcement Learning
+1119,Unsupervised Learning
+1120,Supervised Learning
+1121,Decision Trees
+1122,Naive Byes
+1123,K-Means Clustering
+1124,Model Evaluation Techniques
+1125,Big Data Technologies
+1126,Big Data Concepts
+1127,KNN
+1128,Logistic Regression
+1129,Parallel Processing
+1130,Hadoop
+1131,Spark
+1132,MPI
+1133,MapReduce
+1134,Deep Learning (Optional)
+1135,Neural Networks
+1136,CNNs
+1137,RNN
+1138,Tensorflow
+1139,Pytorch
+1140,Image Recognition
+1141,Natural Language Processing
+1142,Data Storage Solutions
+1143,Mathematics
+1144,Statistics
+1145,Econometrics
+1146,Coding
+1147,Exploratory Data Analysis
+1148,Machine Learning
+1149,Deep Learning
+1150,MLOps
+1151,Pick a Language
+1152,Kotlin
+1153,Java
+1154,The Fundamentals
+1155,Development IDE
+1156,Basics of Kotlin
+1157,Basics of OOP
+1158,Data Structures and Algorithms
+1159,What is and how to use Gradle?
+1160,Create a Basic Hello World App
+1161,Version Control
+1162,Git
+1163,GitHub
+1164,Bitbucket
+1165,GitLab
+1166,App Components
+1167,Activity
+1168,Services
+1169,Content Provider
+1170,Broadcast Receiver
+1171,Intent
+1172,Activity LifeCycle
+1173,State Changes
+1174,Tasks & Backstack
+1175,Implicit Intents
+1176,Explicit Intents
+1177,Intent Filters
+1178,Design & Architecture
+1179,Frame
+1180,Linear
+1181,Relative
+1182,Constraint
+1183,RecycleView
+1184,TextView
+1185,Fragments
+1186,EditText
+1187,Dialogs
+1188,Buttons
+1189,Toast
+1190,ImageView
+1191,Bottom Sheet
+1192,ListView
+1193,Drawer
+1194,Tabs
+1195,Animations
+1196,Jetpack Compose
+1197,App Shortcuts
+1198,Navigation Components
+1199,MVI
+1200,MVVM
+1201,MVP
+1202,MVC
+1203,Repository Pattern
+1204,Builder Pattern
+1205,Factory Pattern
+1206,Observer Pattern
+1207,Flow
+1208,RxJava
+1209,RxKotlin
+1210,LiveData
+1211,Dependency Injection
+1212,Dagger
+1213,Koin
+1214,Hilt
+1215,Kodein
+1216,Storage
+1217,Shared Preferences
+1218,DataStore
+1219,Room Database
+1220,File System
+1221,Network
+1222,Retro
+1223,OkHttp
+1224,Apollo-Android
+1225,Asynchronism
+1226,Coroutines
+1227,Threads
+1228,RxJava
+1229,RxKotlin
+1230,WorkManager
+1231,Common Services
+1232,Authentication
+1233,Crashlytics
+1234,Remote Config
+1235,Cloud Messaging
+1236,FireStore
+1237,Google Admob
+1238,Google Play Services
+1239,Google Maps
+1240,Linting
+1241,Ktlint
+1242,Detekt
+1243,Debugging
+1244,Timber
+1245,Leak Canary
+1246,Chucker
+1247,Jetpack Benchmark
+1248,Testing
+1249,Espresso
+1250,JUnit
+1251,Distribution
+1252,Firebase Distribution
+1253,Google Playstore
+1254,Signed APK
+1255,Interface & Navigation
+1256,Swift (Recommended)
+1257,History and Why Swift?
+1258,Benefits over Objective-C
+1259,Swift Basics
+1260,Objective-C
+1261,Objective-C Basics
+1262,Interoperability with Swift
+1263,iOS Architecture
+1264,Core OS
+1265,Core Services
+1266,Media
+1267,Core Graphics
+1268,Core Animation
+1269,AVFoundation
+1270,Core Image
+1271,Core Audio
+1272,Metal
+1273,Cocoa Touch
+1274,Core Programming Concepts
+1275,OOP
+1276,Functional Programming
+1277,Memory Management
+1278,ViewController Lifecycle
+1279,Error Handling
+1280,"Concurrency (GCD, async/await)"
+1281,Pick a Language
+1282,Version Control
+1283,Git
+1284,GitHub
+1285,Xcode
+1286,Installing
+1287,Preferences
+1288,New Project
+1289,Interface overview
+1290,Toolbar
+1291,Navigators
+1292,Editors
+1293,Project Files
+1294,Groups
+1295,Breakpoints
+1296,Debug Navigator
+1297,Stepping
+1298,Interface Builder
+1299,IBOutlets
+1300,IBActions
+1301,Auto layout
+1302,UIKit
+1303,Components
+1304,Views
+1305,View Controllers
+1306,User Interactions
+1307,Basic Interfaces
+1308,Storyboards
+1309,Xibs
+1310,Navigation
+1311,View Transitions
+1312,SwiftUI
+1313,Declarative Syntax
+1314,Components
+1315,State Management
+1316,Data binding
+1317,Building Interfaces
+1318,Views and Modifiers
+1319,Navigation
+1320,View Transitions
+1321,UI Design
+1322,HIG
+1323,UIKit
+1324,"Views, View Controllers"
+1325,"Navigation Controllers, Segues"
+1326,Navigation Stacks
+1327,Pushing Presenting
+1328,Modals and Navigation
+1329,SwiftUI
+1330,Navigation Stacks
+1331,Navigation View
+1332,NavigationLink
+1333,Presenting / Dismissing views
+1334,Core Animation
+1335,Basics / Creating Animations
+1336,Lottie
+1337,MVC
+1338,MVP
+1339,MVVM
+1340,MVVM-C
+1341,VIPER
+1342,TCA
+1343,Architectural Patterns
+1344,Reactive Programming
+1345,Combine
+1346,Publishers / Subscribers
+1347,Operators & Pipelines
+1348,Combine and MVVM
+1349,RxSwift
+1350,Observables & observers
+1351,Subjects
+1352,RxSwift with MVVM
+1353,Operators
+1354,Schedulers
+1355,Delegate Pattern
+1356,Implementing Delegates
+1357,Callbacks
+1358,Closures
+1359,Understanding and using Closures
+1360,Capturing Values & Memory Mgmt.
+1361,Callback Hell
+1362,Async / Await
+1363,Concurrency
+1364,Data Persistence
+1365,Core Data
+1366,User Defaults
+1367,Keychain
+1368,File System
+1369,SQLite
+1370,JSON / XML
+1371,Parsing
+1372,Serializing
+1373,Networking
+1374,HTTP / HTTPs
+1375,REST
+1376,GraphQL
+1377,URLSession
+1378,Alamofire
+1379,Concurrency and Multithreading
+1380,GCD
+1381,Operation Queues
+1382,Dependency Manager
+1383,CocoaPods
+1384,Carthage
+1385,Swift Package Manager
+1386,Frameworks & Library
+1387,XCFramework
+1388,Static Library
+1389,Dynamic Library
+1390,Accessibility
+1391,Accessibility Inspector
+1392,Voice Over
+1393,Dynamic Type
+1394,Frameworks
+1395,ARKit
+1396,HealthKit
+1397,GameKit
+1398,MapKit
+1399,Core ML
+1400,Code Quality Tools
+1401,SwiftLint
+1402,Tailor
+1403,SwiftFormat
+1404,Debugging Techniques
+1405,Xcode Debugger
+1406,Profiling Instruments
+1407,Unit & UI Testing
+1408,XCTest
+1409,XCUITest
+1410,Test Plan & Coverage
+1411,App Store Distribution
+1412,TestFlight
+1413,FastLane
+1414,CI / CD
+1415,Jenkins
+1416,CircleCI
+1417,GitHub Actions
+1418,GitLab
+1419,Azure DevOps
+1420,App Store Optimization (ASO)
+1421,Keeping Updated with WWDC
+1422,Latest Swift Version
+1423,Latest iOS SDK
+1424,New Feature Announcements
+1425,Introduction
+1426,What are Relational Databases?
+1427,RDBMS Benefits and Limitations
+1428,PostgreSQL vs Other RDBMS
+1429,PostgreSQL vs NoSQL Databases
+1430,Basic RDBMS Concepts
+1431,Object Model
+1432,Queries
+1433,Data Types
+1434,Rows
+1435,Columns
+1436,Tables
+1437,Schemas
+1438,Databases
+1439,Relational Model
+1440,Domains
+1441,Attributes
+1442,Tuples
+1443,Relations
+1444,Constraints
+1445,NULL
+1446,High Level Database Concepts
+1447,ACID
+1448,MVCC
+1449,Transactions
+1450,Write-ahead Log
+1451,Query Processing
+1452,Using Docker
+1453,Package Managers
+1454,Connect using `psql`
+1455,Deployment in Cloud
+1456,Using `systemd`
+1457,Using `pg_ctl`
+1458,Using `pg_ctlcluster`
+1459,Installation and Setup
+1460,Learn SQL
+1461,For Schemas
+1462,ForTables
+1463,Data Types
+1464,Querying Data
+1465,Filtering Data
+1466,Modifying Data
+1467,Joining Tables
+1468,Import / Export Using `COPY`
+1469,Transactions
+1470,Subqueries
+1471,Grouping
+1472,CTE
+1473,Lateral Join
+1474,Set Operations
+1475,Configuring
+1476,Resource Usage
+1477,Write-ahead Log
+1478,Vacuums
+1479,Replication
+1480,Query Planner
+1481,Checkpoints / Background Writer
+1482,Reporting Logging & Statistics
+1483,Adding Extra Extensions
+1484,Security
+1485,Object Privileges
+1486,Grant / Revoke
+1487,Default Privileges
+1488,Advanced Topics
+1489,Row-Level Security
+1490,SELinux
+1491,Authentication Models
+1492,Roles
+1493,pg_hba.conf
+1494,SSL Settings
+1495,Infrastructure Skills
+1496,Using `pg_upgrade`
+1497,Using Logical Replication
+1498,Simple Stateful Setup
+1499,Helm
+1500,Operators
+1501,PostgreSQL Anonymizer
+1502,HAProxy
+1503,Consul
+1504,KeepAlived
+1505,Etcd
+1506,Prometheus
+1507,Zabbix
+1508,check_pgactivity
+1509,temBoard
+1510,check_pgbackrest
+1511,barman
+1512,WAL-G
+1513,pgbackrest
+1514,pg_probackup
+1515,pg_dump
+1516,pg_dumpall
+1517,pg_restore
+1518,pg_basebackup
+1519,Backup Validation Procedures
+1520,PgBouncer
+1521,PgBouncer Alternatives
+1522,Logical Replication
+1523,Streaming Replication
+1524,Patroni
+1525,Patroni Alternatives
+1526,Resource Usage / Provisioning / Capacity Planning
+1527,Learn to Automate
+1528,Shell Scripts
+1529,Any Programming Language
+1530,Ansible
+1531,Salt
+1532,Chef
+1533,Puppet
+1534,Practical Patterns / Antipatterns
+1535,Migration Related Tools
+1536,Bulk Loading / Processing Data
+1537,Data Partitioning
+1538,Sharding Patterns
+1539,Normalization / Normal Forms
+1540,Patterns / Antipatterns
+1541,PgQ
+1542,Processes & Memory Architecture
+1543,Vacuum Processing
+1544,Buffer Management
+1545,Lock Management
+1546,Physical Storage and File Layout
+1547,System Catalog
+1548,"Per-User, Per-Database Setting"
+1549,Storage Parameters
+1550,OLTP
+1551,OLAP
+1552,HTAP
+1553,PL/pgSQL
+1554,Procedures and Functions
+1555,Triggers
+1556,Recursive CTE
+1557,Aggregate and Window functions
+1558,top
+1559,sysstat
+1560,iotop
+1561,gdb
+1562,strace
+1563,ebpf
+1564,perf-tools
+1565,Core Dumps
+1566,pgBadger
+1567,pgCluu
+1568,awk
+1569,grep
+1570,sed
+1571,pg_stat_activity
+1572,pg_stat_statements
+1573,pgcenter
+1574,EXPLAIN
+1575,Depesz
+1576,PEV2
+1577,Tensor
+1578,explain.dalibo.com
+1579,USE
+1580,RED
+1581,Golden Signals
+1582,Schema Design Patterns / Anti-patterns
+1583,SQL Query Patterns / Anti-patterns
+1584,Indexes and their Usecases
+1585,B-Tree
+1586,Hash
+1587,GiST
+1588,SP-GiST
+1589,GIN
+1590,BRIN
+1591,Get Involved in Development
+1592,Mailing Lists
+1593,Reviewing Patches
+1594,Writing Patches
+1595,Basic Blockchain Knowledge
+1596,Blockchain Structure
+1597,Basic Blockchain Operations
+1598,Applications and Uses
+1599,What is Blockchain
+1600,Decentralization
+1601,Why it matters?
+1602,General Blockchain Knowledge
+1603,Mining and Incentive Models
+1604,Decentralization vs Trust
+1605,Blockchain Forking
+1606,Cryptocurrencies
+1607,Cryptowallets
+1608,Cryptography
+1609,Consensus Protocols
+1610,Blockchain Interoperability
+1611,Solana
+1612,TON
+1613,EVM-Based
+1614,Blockchains
+1615,Ethereum
+1616,Polygon
+1617,Binance Smart Chain
+1618,Gnosis Chain
+1619,Huobi Eco Chain
+1620,Avalanche
+1621,Fantom
+1622,Moonbeam / Moonriver
+1623,Everscale
+1624,Gosh
+1625,TON
+1626,Venom
+1627,TVM-Based
+1628,L2 Blockchains
+1629,Arbitrum
+1630,Moonbeam / Moonriver
+1631,TVM-Based
+1632,Oracles
+1633,Hybrid Smart Contracts
+1634,Chainlink
+1635,Oracle Networks
+1636,Smart Contracts
+1637,Solidity
+1638,Vyper
+1639,Rust
+1640,Unit Tests
+1641,Integration Tests
+1642,Code Coverage
+1643,Deployment
+1644,Monitoring
+1645,Upgrades
+1646,ERC Tokens
+1647,Crypto Wallets
+1648,IDEs
+1649,Crypto Faucets
+1650,Decentralized Storage
+1651,Smart Contract Frameworks
+1652,Hardhat
+1653,Brownie
+1654,Truffle
+1655,Foundry
+1656,Security
+1657,Practices
+1658,Fuzz Testing & Static Analysis
+1659,Common Threat Vectors
+1660,Source of Randomness Attacks
+1661,Tools
+1662,Slither
+1663,Manticore
+1664,MythX
+1665,Echidna
+1666,Management Platforms
+1667,OpenZeppelin
+1668,Version Control Systems
+1669,Git
+1670,Repo Hosting Services
+1671,GitHub
+1672,GitLab
+1673,Bitbucket
+1674,dApps - Decentralized Applications
+1675,Applicability
+1676,Defi
+1677,DAOs
+1678,NFTs
+1679,Payments
+1680,Insurance
+1681,Node as a Service
+1682,Alchemy
+1683,Infura
+1684,Moralis
+1685,Quicknode
+1686,Supporting Languages
+1687,JavaScript
+1688,Python
+1689,Go
+1690,Frontend Frameworks
+1691,React
+1692,Angular
+1693,Vue
+1694,Testing
+1695,Deployment
+1696,Maintenance
+1697,Architecture
+1698,Security
+1699,Client Libraries
+1700,ethers.js
+1701,web3.js
+1702,Moralis
+1703,Client Nodes
+1704,Geth
+1705,Besu
+1706,Nethermind
+1707,Substrate
+1708,Building for Scale
+1709,State & Payment Channels
+1710,Optimistic Rollups & Fraud Proofs
+1711,Zk Rollups & Zero Knowledge Proof
+1712,Validium
+1713,Plasma
+1714,Sidechains
+1715,Ethereum 2.0
+1716,On-Chain Scaling
+1717,Why it matters?
+1718,Storage
+1719,Learn the Fundamentals
+1720,Test Oracles
+1721,Test Prioritization
+1722,Manage your Testing
+1723,qTest
+1724,TestRail
+1725,TestLink
+1726,Zephyr
+1727,What is Quality Assurance?
+1728,QA Mindset
+1729,Testing Approaches
+1730,White Box Testing
+1731,Gray Box Testing
+1732,Black Box Testing
+1733,Project Management
+1734,Atlassian
+1735,Assembla
+1736,YouTrack
+1737,Trello
+1738,Testing Techniques
+1739,Load Testing
+1740,Performance Testing
+1741,Stress Testing
+1742,Security Testing
+1743,Accessibility Testing
+1744,Non-Functional Testing
+1745,Functional Testing
+1746,UAT
+1747,Exploratory Testing
+1748,Sanity Testing
+1749,Regression Testing
+1750,Smoke Testing
+1751,Unit Testing
+1752,Integration Testing
+1753,SDLC Delivery Model
+1754,V Model
+1755,Waterfall
+1756,Agile Model
+1757,Kanban
+1758,Scrum
+1759,XP
+1760,SAFe
+1761,Manual Testing
+1762,TDD
+1763,Test Planning
+1764,Test Cases and Scenarios
+1765,Compatibility
+1766,Verification and Validation
+1767,"HTML, CSS, JavaScript"
+1768,Browser / Dev Tools
+1769,Ajax
+1770,Caching
+1771,"SWAs, PWAs, JAMStack"
+1772,CSR vs SSR
+1773,Responsive vs Adaptive
+1774,Selenium IDE
+1775,Ghost Inspector
+1776,Bug Magnet
+1777,Webdriver.io
+1778,Playwright
+1779,QA Wolf
+1780,Cypress
+1781,Jasmine
+1782,Nightwatch
+1783,Robot
+1784,Selenium
+1785,Jest
+1786,Puppeteer
+1787,Frontend Automation
+1788,Backend Automation
+1789,Cypress
+1790,Playwright
+1791,Soap UI
+1792,Karateframework
+1793,Postman / Newman
+1794,REST Assured
+1795,Mobile Automation
+1796,Espresso
+1797,Detox
+1798,Appium
+1799,XCUITest
+1800,Accessibility Tests
+1801,Wave
+1802,AXE
+1803,Chrome DevTools
+1804,Load & Performance Testing
+1805,Lighthouse
+1806,Webpage Test
+1807,Gatling
+1808,K6
+1809,Artillery
+1810,Vegeta
+1811,JMeter
+1812,Locust
+1813,Security Testing
+1814,Authentication / Authorization
+1815,Vulnerability Scanning
+1816,Secrets Management
+1817,OWASP 10
+1818,Attack Vectors
+1819,Email Testing
+1820,Mailinator
+1821,Gmail Tester
+1822,Reporting
+1823,TestRail
+1824,Allure
+1825,jUnit
+1826,Monitoring & Logs
+1827,Grafana
+1828,New Relic
+1829,RunScope
+1830,Sentry
+1831,Kibana
+1832,Datadog
+1833,Pager Duty
+1834,Version Control System
+1835,Git
+1836,Repo Hosting Services
+1837,GitHub
+1838,Bitbucket
+1839,GitLab
+1840,CI / CD
+1841,Circle CI
+1842,Drone
+1843,Jenkins
+1844,Travis CI
+1845,GitLab CI
+1846,Bamboo
+1847,TeamCity
+1848,Azure DevOps Services
+1849,Headless Testing
+1850,Repo Hosting Services
+1851,Zombie.js
+1852,Puppeteer
+1853,Playwright
+1854,Cypress
+1855,Headless Chrome
+1856,Headless Fox
+1857,HTML Unit
+1858,Understand the Basics
+1859,What is Software Architecture
+1860,What is a Software Architect
+1861,Levels of Architecture
+1862,Application Architecture
+1863,Solution Architecture
+1864,Enterprise Architecture
+1865,Responsibilities
+1866,Important Skills to Learn
+1867,Design & Architecture
+1868,Decision Making
+1869,Simplifying Things
+1870,How to Code
+1871,Documentation
+1872,Communication
+1873,Estimate and Evaluate
+1874,Balance
+1875,Consult & Coach
+1876,Marketing Skills
+1877,Technical Skills
+1878,Programming Languages
+1879,Java / Kotlin / Scala
+1880,Python
+1881,Ruby
+1882,Go
+1883,JavaScript / TypeScript
+1884,.NET Framework Based
+1885,Patterns & Design Principles
+1886,OOP
+1887,"MVC, MVP, MVVM"
+1888,"CQRS, Eventual Consistency"
+1889,Actors
+1890,"ACID, CAP Theorem"
+1891,SOLID
+1892,TDD
+1893,DDD
+1894,Tools
+1895,Git
+1896,Slack
+1897,Trello
+1898,Atlassian Tools
+1899,GitHub
+1900,Tools
+1901,Architecture
+1902,Serverless
+1903,Client / Server
+1904,Layered
+1905,Distributed Systems
+1906,Service Oriented
+1907,Security
+1908,Hashing Algorithms
+1909,PKI
+1910,OWASP
+1911,Auth Strategies
+1912,Working with Data
+1913,"Hadoop, Spark, MapReduce"
+1914,"ETL, Datawarehouses"
+1915,SQL Databases
+1916,NoSQL Databases
+1917,Apache Spark
+1918,Hadoop
+1919,Datawarehouse Principles
+1920,APIs & Integrations
+1921,gRPC
+1922,"ESB, SOAP"
+1923,GraphQL
+1924,REST
+1925,"BPM, BPEL"
+1926,Messaging Queues
+1927,"Web, Mobile"
+1928,Functional Programming
+1929,"React, Vue, Angular"
+1930,"SPA, SSR, SSG"
+1931,Microfrontends
+1932,W3C and WHATWG
+1933,Reactive Programming
+1934,Frameworks
+1935,BABOK
+1936,IAF
+1937,UML
+1938,TOGAF
+1939,Management
+1940,PMI
+1941,ITIL
+1942,Prince2
+1943,RUP
+1944,LeSS
+1945,SaFE
+1946,Kanban
+1947,Scrum
+1948,XP
+1949,Networks
+1950,OSI
+1951,TCP/IP Model
+1952,"HTTP, HTTPS"
+1953,Proxies
+1954,Firewalls
+1955,Operations Knowledge
+1956,Infrastructure as Code
+1957,Cloud Providers
+1958,Serverless Concepts
+1959,Linux / Unix
+1960,Service Mesh
+1961,CI / CD
+1962,Containers
+1963,Cloud Design Patterns
+1964,Enterprise Software
+1965,MS Dynamics
+1966,"SAP ERP, HANA, Business Objects"
+1967,EMC DMS
+1968,IBM BPM
+1969,Salesforce
+1970,Microservices
+1971,Fundamental IT Skills
+1972,Computer Hardware Components
+1973,Connection Types and their function
+1974,OS-Independent Troubleshooting
+1975,Understand Basics of Popular Suites
+1976,Basics of Computer Networking
+1977,NFC
+1978,WiFi
+1979,Bluetooth
+1980,Infrared
+1981,iCloud
+1982,Google Suite
+1983,MS Office Suite
+1984,HackTheBox
+1985,TryHackMe
+1986,VulnHub
+1987,picoCTF
+1988,SANS Holiday Hack Challenge
+1989,CompTIA A+
+1990,CompTIA Linux+
+1991,CompTIA Network+
+1992,CCNA
+1993,CompTIA Security+
+1994,CEH
+1995,CISA
+1996,CISM
+1997,GSEC
+1998,GPEN
+1999,GWAPT
+2000,GIAC
+2001,OSCP
+2002,CREST
+2003,CISSP
+2004,Operating Systems
+2005,Windows
+2006,Linux
+2007,MacOS
+2008,Installation and Configuration
+2009,Different Versions and Differences
+2010,Navigating using GUI and CLI
+2011,Understand Permissions
+2012,Installing Software and Applications
+2013,Performing CRUD on Files
+2014,Troubleshooting
+2015,Common Commands
+2016,Networking Knowledge
+2017,Understand the OSI Model
+2018,Common Protocols and their Uses
+2019,Common Ports and their Uses
+2020,SSL and TLS Basics
+2021,Basics of NAS and SAN
+2022,Basics of Subnetting
+2023,Public vs Private IP Addresses
+2024,localhost
+2025,loopback
+2026,CIDR
+2027,subnet mask
+2028,default gateway
+2029,VLAN
+2030,DMZ
+2031,ARP
+2032,VM
+2033,DHCP
+2034,DNS
+2035,NAT
+2036,IP
+2037,Router
+2038,Switch
+2039,VPN
+2040,MAN
+2041,LAN
+2042,WAN
+2043,WLAN
+2044,DHCP
+2045,DNS
+2046,NTP
+2047,IPAM
+2048,Star
+2049,Ring
+2050,Mesh
+2051,Bus
+2052,SSH
+2053,RDP
+2054,FTP
+2055,SFTP
+2056,HTTP / HTTPS
+2057,SSL / TLS
+2058,VMWare
+2059,VirtualBox
+2060,esxi
+2061,proxmox
+2062,Hypervisor
+2063,VM
+2064,GuestOS
+2065,HostOS
+2066,nslookup
+2067,iptables
+2068,Packet Sniffers
+2069,ipconfig
+2070,netstat
+2071,Port Scanners
+2072,ping
+2073,dig
+2074,arp
+2075,Protocol Analyzers
+2076,nmap
+2077,route
+2078,tcpdump
+2079,tracert
+2080,Kerberos
+2081,LDAP
+2082,SSO
+2083,RADIUS
+2084,Certificates
+2085,Local Auth
+2086,Security Skills and Knowledge
+2087,Understand Common Hacking Tools
+2088,Understand Common Exploit Frameworks
+2089,Understand Concept of Defense in Depth
+2090,Understand Concept of Runbooks
+2091,Understand Basics of Forensics
+2092,Basics and Concepts of Threat Hunting
+2093,Basics of Vulnerability Management
+2094,Basics of Reverse Engineering
+2095,Penetration Testing Rules of Engagement
+2096,Perimiter vs DMZ vs Segmentation
+2097,Core Concepts of Zero Trust
+2098,Roles of Compliance and Auditors
+2099,Understand the Definition of Risk
+2100,Understand Backups and Resiliency
+2101,Cyber Kill Chain
+2102,MFA & 2FA
+2103,Operating System Hardening
+2104,Understand Concept of Isolation
+2105,Basics of IDS and IPS
+2106,Honeypots
+2107,Authentication vs Authorization
+2108,Blue / Red / Purple Teams
+2109,False Negative / False Positive
+2110,True Negative / True Positive
+2111,"Basics of Threat Intel, OSINT"
+2112,Understand Handshakes
+2113,Understand CIA Triad
+2114,Privilege Escalation
+2115,Web Based Attacks and OWASP10
+2116,Learn how Malware works and Types
+2117,nmap
+2118,tracert
+2119,nslookup
+2120,curl
+2121,hping
+2122,ping
+2123,arp
+2124,cat
+2125,dd
+2126,head
+2127,grep
+2128,wireshark
+2129,winhex
+2130,memdump
+2131,FTK Imager
+2132,autopsy
+2133,dig
+2134,tail
+2135,ipconfig
+2136,Salting
+2137,Hashing
+2138,Key Exchange
+2139,PKI
+2140,Private vs Public Keys
+2141,Obfuscation
+2142,ATT&CK
+2143,Kill Chain
+2144,Diamond Model
+2145,ISO
+2146,NIST
+2147,RMF
+2148,CIS
+2149,CSF
+2150,SIEM
+2151,SOAR
+2152,ParrotOS
+2153,Kali Linux
+2154,LOLBAS
+2155,Event Logs
+2156,syslogs
+2157,netflow
+2158,Packet Captures
+2159,Firewall Logs
+2160,MAC-based
+2161,NAC-based
+2162,Port Blocking
+2163,Group Policy
+2164,ACLs
+2165,Sinkholes
+2166,Patching
+2167,Jump Server
+2168,Endpoint Security
+2169,FTP vs SFTP
+2170,SSL vs TLS
+2171,IPSEC
+2172,DNSSEC
+2173,LDAPS
+2174,SRTP
+2175,S/MIME
+2176,Antivirus
+2177,Antimalware
+2178,EDR
+2179,DLP
+2180,ACL
+2181,Firewall & Nextgen Firewall
+2182,HIPS
+2183,NIDS
+2184,NIPS
+2185,Host Based Firewall
+2186,Sandboxing
+2187,EAP vs PEAP
+2188,WPS
+2189,WPA vs WPA2 vs WPA3 vs WEP
+2190,Preparation
+2191,Identification
+2192,Containment
+2193,Eradication
+2194,Recovery
+2195,Lessons Learned
+2196,Zero Day
+2197,Known vs Unknown
+2198,APT
+2199,VirusTotal
+2200,Joe Sandbox
+2201,any.run
+2202,urlvoid
+2203,urlscan
+2204,WHOIS
+2205,Phishing
+2206,Whishing
+2207,Whaling
+2208,Smishing
+2209,Spam vs Spim
+2210,Shoulder Surfing
+2211,Dumpster Diving
+2212,Tailgating
+2213,Zero day
+2214,Social Engineering
+2215,Reconnaissance
+2216,Impersonation
+2217,Watering Hole Attack
+2218,Drive by Attack
+2219,Typo Squatting
+2220,Brute Force vs Password Spray
+2221,DoS vs DDoS
+2222,MITM
+2223,Spoofing
+2224,Evil Twin
+2225,DNS Poisoning
+2226,Deauth Attack
+2227,VLAN Hopping
+2228,Rogue Access Point
+2229,Buffer Overflow
+2230,Memory Leak
+2231,XSS
+2232,SQL Injection
+2233,CSRF
+2234,Replay Attack
+2235,Pass the Hash
+2236,Directory Traversal
+2237,Stakeholders
+2238,HR
+2239,Legal
+2240,Compliance
+2241,Management
+2242,Cloud Skills and Knowledge
+2243,Understand the Concept of Security in the Cloud
+2244,Understand the basics and general flow of deploying in the cloud
+2245,Understand the differences between cloud and on-premises
+2246,Understand the concept of Infrastructure as Code
+2247,Understand the Concept of Serverless
+2248,SaaS
+2249,PaaS
+2250,IaaS
+2251,Private
+2252,Public
+2253,Hybrid
+2254,AWS
+2255,GCP
+2256,Azure
+2257,S3
+2258,Dropbox
+2259,Box
+2260,OneDrive
+2261,Google Drive
+2262,iCloud
+2263,Programming Skills
+2264,Python
+2265,Go
+2266,JavaScript
+2267,C++
+2268,Bash
+2269,Power Shell
+2270,GTFOBINS
+2271,WADCOMS
+2272,Human Decision Making
+2273,Nudge Theory
+2274,Persuasive Technology
+2275,Behavior Design
+2276,Behavioral Science
+2277,Behavioral Economics
+2278,BJ Fogg's Behavior Model
+2279,CREATE Action Funnel
+2280,Spectrum of Thinking Interventions
+2281,Dual Process Theory
+2282,BJ Fogg's Behavior Grid
+2283,Nir Eyal's Hook Model
+2284,Cue Routine Reward Model
+2285,Support Conscious Action
+2286,Educate & Encourage User
+2287,Help User think about their Action
+2288,Cheating
+2289,Defaulting
+2290,Making it Incidental
+2291,Automate the Act of Repetition
+2292,Make or Change Habits
+2293,Help user Avoiding the Cue
+2294,Replace the Routine
+2295,Use Consciousness to Interfere
+2296,Mindfulness to Avoid Acting on the Cue
+2297,Crowd Out Old Habit with New Behavior
+2298,Behavior Change Strategies
+2299,Understanding the Product
+2300,Target Outcome
+2301,Target Actor
+2302,Target Action
+2303,Create User Personas
+2304,Business Model Canvas
+2305,Lean Canvas
+2306,Business Model Inspirator
+2307,Competitor Analysis
+2308,Five Forces Model
+2309,SWOT Analysis
+2310,Conceptual Design
+2311,User Stories
+2312,"In general, keep it short and simple"
+2313,Make it easy to understand and complete
+2314,Make progress visible to user
+2315,Make progress meaningful to reward user
+2316,Make successful completion clearly visible
+2317,Customer Experience Map by Mel Edwards
+2318,Simple Flowchart
+2319,Event-driven Process Chain Model (EPC)
+2320,Business Process Model & Notation (BPMN)
+2321,Prototyping
+2322,Good Layout Rules
+2323,Figma
+2324,Adobe XD
+2325,Sketch
+2326,Balsamiq
+2327,Call to Action
+2328,Status Reports
+2329,How-to-Tips
+2330,Reminders & Planning Prompts
+2331,Decision-Making Support
+2332,Behavior Change Games
+2333,Gamification
+2334,Planners
+2335,Reminders
+2336,Social Sharing
+2337,Goal Trackers
+2338,Tutorials
+2339,UX Best Practices
+2340,Clear the Page of Distractions
+2341,"Make it Clear, Where to Act"
+2342,Tell User what the Action is and ask for it
+2343,Make UI Professional and Beautiful
+2344,Deploy Social Proof
+2345,Deploy Strong Authority on Subject
+2346,Be Authentic and Personal
+2347,Prime User-Relevant Associations
+2348,Leverage Loss-Aversion
+2349,Use Peer Comparisons
+2350,Use Competition
+2351,Avoid Cognitive Overhead
+2352,Avoid Choice Overload
+2353,Avoid Direct Payments
+2354,Frame Text to Avoid Temporal Myopia
+2355,Remind of Prior Commitment to Act
+2356,Make Commitment to Friends
+2357,Make Reward Scarce
+2358,Elicit Implementation Intentions
+2359,Default Everything
+2360,Lessen the Burden of Action / Info
+2361,Deploy Peer Comparisons
+2362,Measuring the Impact
+2363,Incremental A/B Testing
+2364,Multivariate Testing
+2365,"Gather Lessons, Prioritize & Integrate"
+2366,Client Side Development
+2367,Game Mathematics
+2368,Linear Algebra
+2369,Vector
+2370,Matrix
+2371,Geometry
+2372,Linear Transformation
+2373,Affine Space
+2374,Affine Transformation
+2375,Orientation
+2376,Quaternion
+2377,Euler Angle
+2378,Curve
+2379,Spline
+2380,Hermite
+2381,Bezier
+2382,Catmull-Rom
+2383,Projection
+2384,Perspective
+2385,Orthogonal
+2386,Game Physics
+2387,Dynamics
+2388,Center of Mass
+2389,Moment of Inertia
+2390,Acceleration
+2391,Joints
+2392,Force
+2393,Restitution
+2394,Angular Velocity
+2395,Buoyancy
+2396,Linear Velocity
+2397,Friction
+2398,Collision Detection
+2399,Narrow Phase
+2400,Broad Phase
+2401,Convexity
+2402,Convex
+2403,Concave
+2404,Convex Hull
+2405,Convex Decomposition
+2406,Intersection
+2407,SAT
+2408,GJK
+2409,EPA
+2410,Bounding Volume
+2411,AABB
+2412,OBB
+2413,Spatial Partitioning
+2414,Sort & Sweep
+2415,BVH
+2416,DBVT
+2417,CCD
+2418,Game Engine
+2419,Godot
+2420,Unreal Engine
+2421,Native
+2422,Unity 3D
+2423,Programming Languages
+2424,C/C++
+2425,C#
+2426,GDScript
+2427,Rust
+2428,Python
+2429,Computer Graphics
+2430,Ray Tracing
+2431,Rasterization
+2432,Graphics Pipeline
+2433,Sampling
+2434,Shader
+2435,Rendering Equation
+2436,Reflection
+2437,Diffuse
+2438,Specular
+2439,Mapping
+2440,Texture
+2441,Bump
+2442,Parallax
+2443,Horizon
+2444,Computer Animation
+2445,Color
+2446,Visual Perception
+2447,Tone Reproduction
+2448,Lighting and Shadow
+2449,Shadow Map
+2450,2D
+2451,Cube
+2452,Cascaded
+2453,Light Source
+2454,Directional
+2455,Point
+2456,Spot
+2457,Infinite
+2458,Visibility and Occlusion
+2459,Occluder
+2460,Culling
+2461,Clipping
+2462,Fog
+2463,Frustum
+2464,Light
+2465,Shadow
+2466,Polygon
+2467,Polyhedron
+2468,Stencil Shadow
+2469,Graphics API
+2470,DirectX
+2471,OpenGL
+2472,WebGL
+2473,HLSL
+2474,GLSL
+2475,OpenGL ES
+2476,Metal
+2477,Vulkan
+2478,SPIR-V
+2479,Game AI
+2480,Decision Making
+2481,Decision Tree
+2482,State Machine
+2483,Behavior Tree
+2484,Fuzzy Logic
+2485,Markov System
+2486,Goal Oriented Behavior
+2487,Movement
+2488,Board Game
+2489,Minimax
+2490,AB Pruning
+2491,MCTS
+2492,Game AI
+2493,Decision Learning
+2494,Naive Bayes Classifier
+2495,Decision Tree Learning
+2496,Deep Learning
+2497,Artificial Neural Network
+2498,Reinforcements Learning
+2499,Learning
+2500,Advanced Rendering
+2501,Real-time Ray Tracing
+2502,DirectX Ray Tracing
+2503,Vulkan Ray Tracing
+2504,OptiX
+2505,Physically-Based Rendering
+2506,Translucency & Transparency
+2507,Conservation of Energy
+2508,Metallicity
+2509,Microsurface Scattering
+2510,Introduction
+2511,Who is a Technical Writer?
+2512,What is Technical Writing?
+2513,Role of Technical Writers inOrganizations
+2514,Forms of Technical Writing
+2515,Growth as a Technical Writer
+2516,Required Skills
+2517,Technology Expertise
+2518,Language Proficiency
+2519,Written Communication Proficiency
+2520,Tooling
+2521,Publishing Tools
+2522,Plagiarism Checker
+2523,Editing Tools
+2524,Git / Version Control
+2525,Markdown
+2526,Research Tools
+2527,Blogging Platforms
+2528,SEO Tools
+2529,Best Practices
+2530,Story Telling
+2531,Subtle Selling
+2532,Content Structure
+2533,Call to Actions
+2534,References
+2535,Crafting Great Titles
+2536,Content Objectives & Intent
+2537,User Persona
+2538,Writing Style Guides
+2539,Content Research
+2540,Topic Score
+2541,Keyword Volume
+2542,Communities & Forums
+2543,Search Trends
+2544,Support Request Evaluation
+2545,Types of Technical Content
+2546,Product Content
+2547,General Product Prose
+2548,How-to Guides
+2549,Developer Docs
+2550,User Goals
+2551,Developer Journey
+2552,Docs Structure
+2553,API Reference
+2554,Docs Generation Tools
+2555,API Definitions
+2556,Help Content
+2557,Troubleshooting
+2558,Developer Support
+2559,Platform Support
+2560,Technical Content Marketing
+2561,ICP & Buyer Persona
+2562,Buyer Journey & Content Funnel
+2563,Content SEO
+2564,Backlinking
+2565,Short-tail Keywords
+2566,Long-Tail Keywords
+2567,SEO Keywords
+2568,Top-funnel Content
+2569,Pillar Content
+2570,Awareness Blog Posts
+2571,Research Reports
+2572,Mid-funnel Content
+2573,Generic Gated Content
+2574,White-papers
+2575,eBook
+2576,Bottom-funnel Content
+2577,Comparative Posts
+2578,Tutorials
+2579,Release Notes / Product Announcements
+2580,Customer Case-Studies
+2581,Frequently Asked Questions
+2582,Technical Website Copy
+2583,Content Optimization
+2584,Content Analysis
+2585,Link Shorteners / Tracking
+2586,Platform Tracking and Metrics
+2587,Conversion Tracking
+2588,Content Aging & Timelines
+2589,Content Distribution
+2590,Canonical Link
+2591,OpenGraph Data
+2592,Content Distribution Channels
+2593,Content Distribution Amplification Strategies
+2594,Programming Fundamentals
+2595,Python
+2596,Go
+2597,Bash
+2598,Version Control Systems
+2599,Git
+2600,GitHub
+2601,Cloud Computing
+2602,AWS / Azure / GCP
+2603,Cloud-native ML Services
+2604,Containerization
+2605,Docker
+2606,Kubernetes
+2607,Machine Learning Fundamentals
+2608,Data Engineering Fundamentals
+2609,Data Pipelines
+2610,Data Lakes & Warehouses
+2611,Data Ingestion Architecture
+2612,Airflow
+2613,Spark
+2614,Kafka
+2615,Flink
+2616,MLOps Principles
+2617,MLOps Components
+2618,Version Control
+2619,CI/CD
+2620,Orchestration
+2621,Experiment Tracking & Model Registry
+2622,Data Lineage & Feature Stores
+2623,Model Training & Serving
+2624,Monitoring & Observability
+2625,Infrastructure as Code
+2626,What is Product Management?
+2627,Product vs Project Management
+2628,Roles and Responsibilities
+2629,Key Skills
+2630,Product Development Lifecycle
+2631,Development
+2632,Introduction
+2633,Growth
+2634,Maturity
+2635,Decline
+2636,Mind Mapping
+2637,Brainwriting
+2638,SCAMPER
+2639,Brainstorming Techniques
+2640,Discovery
+2641,Selection
+2642,Validation
+2643,Iterative Process
+2644,Execution
+2645,Blue Ocean Strategy
+2646,TRIZ (Theory of Inventive Problem Solving)
+2647,Problem Framing
+2648,Product Identification
+2649,Market Analysis
+2650,User Research
+2651,Positioning
+2652,Identifying Market Needs
+2653,Competitive Analysis
+2654,Emerging Market Trends
+2655,User Personas
+2656,User Interviews
+2657,Surveys and Questionnaires
+2658,Ethnographic Research
+2659,USP (Unique Selling Point)
+2660,Market Segmentation
+2661,Case Studies
+2662,Vision & Mission
+2663,Statement
+2664,Proposition
+2665,Capabilities
+2666,Solved Constraints
+2667,Future Constraints
+2668,Reference Materials
+2669,Narrative
+2670,Defining Goals
+2671,Target
+2672,Baseline
+2673,Trend
+2674,Timeframe
+2675,Value Proposition
+2676,Defining Value Proposition
+2677,Value Proposition Canvas
+2678,Value vs Features
+2679,Finding Balance
+2680,Feature Creep
+2681,Strategic Thinking
+2682,Competitive Strategy
+2683,Five Forces Analysis
+2684,Competetive Advantage
+2685,Strategic Partners
+2686,Identify Partners
+2687,Managing Partnerships
+2688,Product Requirements
+2689,Writing PRDs
+2690,User Stories
+2691,Job Stories
+2692,Product Roadmap
+2693,Creating a Roadmap
+2694,Prioritising Features
+2695,Continuous Roadmapping
+2696,Outcome-Based Roadmaps
+2697,Communicating the Roadmap
+2698,Backlog Management
+2699,Prioritization Techniques
+2700,Grooming Sessions
+2701,User Story Mapping
+2702,UX / UI Design
+2703,Principles of UX Design
+2704,Wireframing and Prototyping
+2705,Design Thinking
+2706,Service Design
+2707,Interaction Design
+2708,User Testing
+2709,Usability Testing
+2710,A/B Testing
+2711,Remote User Testing
+2712,Agile Methodology
+2713,Working with Engineering Teams
+2714,Scrum Basics
+2715,Kanban Basics
+2716,Sprint Planning
+2717,Daily Standups
+2718,Retrospectives
+2719,Minimum Viable Product (MVP)
+2720,Go-to-Market Strategy
+2721,Launch Planning
+2722,Marketing Strategies
+2723,Growth Hacking
+2724,Release Strategies
+2725,Feature Toggles
+2726,Phased Rollouts
+2727,Dark Launches
+2728,Key Product Metrics
+2729,DAU (Daily Active Users)
+2730,MAU (Monthly Active Users)
+2731,Conversion Rate
+2732,Retention Rate
+2733,Churn Rate
+2734,LTV (Lifetime Value)
+2735,CAC (Customer Acquisition Cost)
+2736,North Star Metric
+2737,Data-Driven Decision Making
+2738,A/B Testing
+2739,Cohort Analysis
+2740,Predictive Analytics
+2741,Feedback Loops
+2742,Communication Skills
+2743,Interpersonal
+2744,Business
+2745,Communication Techniques
+2746,Difficult Conversations
+2747,Active Listening
+2748,Conflict Resolution
+2749,Alignment & Buy-In
+2750,Showing Impact
+2751,Managing Stakeholders
+2752,Identifying Stakeholders
+2753,Stakeholder Mapping
+2754,Stakeholder Engagement
+2755,Remote Stakeholders
+2756,Roadmapping Tools
+2757,Project Management Tools
+2758,Analytics Tools
+2759,Communication Tools
+2760,Product Board
+2761,Aha
+2762,Notion
+2763,Jira
+2764,Linear
+2765,Trello
+2766,Amplitude
+2767,Heap
+2768,Looker
+2769,Slack
+2770,Teams
+2771,Discord
+2772,Identifying Risks
+2773,Risk Identification Techniques
+2774,Risk Register
+2775,Risk Assessment
+2776,Qualitative Risk Assessment
+2777,Quantitative Risk Assessment
+2778,Risk Mitigation
+2779,Mitigation Strategies
+2780,Contingency Planning
+2781,Monitoring and Controlling Risks
+2782,Risk Monitoring Tools
+2783,Risk Audits
+2784,Scaling Products
+2785,Growth Strategies
+2786,Internationalization
+2787,Platform Thinking
+2788,Portfolio Management
+2789,Advanced Analysis
+2790,Predictive Analytics
+2791,ML in Product Mgmt.
+2792,AI in Product Mgmt.
+2793,Leadership and Influence
+2794,Building and Leading Teams
+2795,Influencing without Authority
+2796,Emotional Intelligence
+2797,Introduction
+2798,What is Engineering Management?
+2799,EM vs Tech Lead vs IC
+2800,People
+2801,Product
+2802,Process
+2803,Architectural Decision-Making
+2804,System Monitoring & Performance
+2805,Scaling Infrastructure
+2806,Software Engineering Background
+2807,System Design and Architecture
+2808,Technical Debt and Management
+2809,Technical Documentation
+2810,Code Review Best Practices
+2811,Technical Roadmapping
+2812,Build vs Buy Evaluation
+2813,Technical Risk Assessment
+2814,CI/CD Implementation
+2815,Development / Release Workflow
+2816,Technical Standards Setting
+2817,Security Best Practices
+2818,Testing Strategies
+2819,Incident Management
+2820,Hiring and Recruitment
+2821,Team Structure and Design
+2822,Performance Evaluations
+2823,Mentoring and Coaching
+2824,Career Development Planning
+2825,Delegation
+2826,Conflict Resolution
+2827,Feedback Delivery
+2828,Team Motivation
+2829,Trust / Influence Building
+2830,One-on-One Meetings
+2831,Team Meetings
+2832,Status Reporting
+2833,Stakeholder Management
+2834,Cross-functional Collaboration
+2835,Resource Allocation
+2836,Sprint Planning
+2837,Release Management
+2838,Risk Management
+2839,Dependency management
+2840,Agile methodologies
+2841,Project Tracking
+2842,Milestone Management
+2843,Scope Management
+2844,Timeline Estimation
+2845,KPI Definition
+2846,Velocity Tracking
+2847,Quality Metrics
+2848,Team Health Metrics
+2849,Project Postmortems
+2850,Product strategy alignment
+2851,Business Case Development
+2852,ROI analysis
+2853,Market awareness
+2854,Competitive Analysis
+2855,Budget Planning
+2856,Resource forecasting
+2857,Cost Optimization
+2858,Vendor Management
+2859,Company Culture
+2860,Change management
+2861,Organization structure
+2862,Politics navigation
+2863,Cross-department collaboration
+2864,Emotional Intelligence
+2865,Defining and Enforcing Values
+2866,Team Traditions and Rituals
+2867,Recognition programs
+2868,Social connections
+2869,Inclusive environment creation
+2870,Innovation fostering
+2871,Learning culture development
+2872,Knowledge sharing practices
+2873,Technical excellence mindset
+2874,Blameless Post-mortems
+2875,Bias Recognition / Mitigation
+2876,Emergency protocols
+2877,War Room Management
+2878,Stakeholder Communication
+2879,Post-incident analysis
+2880,Service Recovery
+2881,Contingency planning
+2882,Disaster recovery
+2883,Business continuity
+2884,Security incident handling
+2885,Production issues management
+2886,Contingency planning
+2887,Disaster recovery
+2888,Business continuity
+2889,Security incident handling
+2890,Production issues management
+2891,Board presentations
+2892,Executive summaries
+2893,Strategic proposals
+2894,Budget requests
+2895,Vision alignment
+2896,Customer feedback integration
+2897,Technical customer support
+2898,Customer success alignment
+2899,Feature prioritization
+2900,Technical partnerships
+2901,Vendor relationships
+2902,Technology partnerships
+2903,Integration management
+2904,API strategy
+2905,External collaboration
+2906,Competitive Analysis
+2907,Legacy System Retirement
+2908,Architecture documentation
+2909,Process documentation
+2910,Decision records
+2911,Lessons Learned
+2912,Best Practices
+2913,Mentoring Programs
+2914,Knowledge bases
+2915,Brown Bags
+2916,Tech Talks
+2917,Migration planning
+2918,Legacy system retirement
+2919,Technology adoption
+2920,Tool transitions
+2921,Process changes
+2922,Change strategy
+2923,Impact assessment
+2924,Stakeholder management
+2925,Communication planning
+2926,Resistance management
+2927,Reorganizations
+2928,Team mergers
+2929,Role transitions
+2930,Responsibility shifts
+2931,Culture evolution
+2932,What is DevRel?
+2933,History and Evolution
+2934,Developer Experience
+2935,Developer Journey
+2936,Developer Marketing
+2937,Importance of DevRel
+2938,Advocacy
+2939,Education
+2940,Community Support
+2941,Content Creation
+2942,Feedback Loop
+2943,Public Speaking
+2944,Writing Skills
+2945,Blog Posts
+2946,Technical Documentation
+2947,Social Media
+2948,Presentation Techniques
+2949,Rules of Three
+2950,PechaKucha
+2951,Storytelling
+2952,Mind Mapping
+2953,Visualization
+2954,Engaging Audience
+2955,The Hook
+2956,Contrast Principle
+2957,Handouts
+2958,Repetition & Reinforcement
+2959,Handling Q&A
+2960,Active Listening
+2961,Anticipate Questions
+2962,Be Concise
+2963,Managing Difficult Questions
+2964,Community Engagement
+2965,Event Participation
+2966,Online Communities
+2967,Networking
+2968,Basic Programming Skills
+2969,IDEs
+2970,VS Code
+2971,JetBrains IDEs
+2972,APIs & SDKs
+2973,Writing Documentation
+2974,Building SDKs
+2975,Understanding APIs
+2976,Version Control
+2977,Git
+2978,GitHub
+2979,Managing Discussions
+2980,Issues & Pull Requests
+2981,Labelling and Cleanup
+2982,Milestones & Releases
+2983,Public Backlog
+2984,Building a Community
+2985,Identifying Audience
+2986,Platform Selection
+2987,Initial Outreach
+2988,Community Guidelines
+2989,Code of Conduct
+2990,Rules and Policies
+2991,Community Management
+2992,Moderation
+2993,Conflict Resolution
+2994,Encouraging Participation
+2995,Recognition Programs
+2996,Event Management
+2997,Planning
+2998,Promotion
+2999,Execution
+3000,Post Event Followup
+3001,Surveys
+3002,Feedback Collection
+3003,Blogging
+3004,Topic Selection
+3005,Writing Process
+3006,SEO Basics
+3007,Guest Blogging
+3008,Cross-Promotion
+3009,Collaborations
+3010,Video Production
+3011,Editing
+3012,Recording
+3013,Scripting
+3014,Animations & Graphics
+3015,Video Production
+3016,Live Streaming
+3017,X
+3018,YouTube
+3019,Twitch
+3020,Streamyard
+3021,Animations & Graphics
+3022,Technical Setup
+3023,Video
+3024,Audio
+3025,Social Media
+3026,X
+3027,LinkedIn
+3028,Facebook
+3029,Instagram
+3030,Content Strategy
+3031,Analytics and Optimization
+3032,Consistent Posting
+3033,Engaging Content
+3034,Creating Brand Voice
+3035,Tracking Engagement
+3036,Data-Driven Strategy Shift
+3037,Documentation
+3038,User Guides
+3039,API References
+3040,Tutorials
+3041,Sample Projects
+3042,Code Samples
+3043,Example Apps
+3044,Use Case Based
+3045,Support
+3046,Forums
+3047,Issue Tracking
+3048,FAQs
+3049,Office Hours
+3050,Webinars
+3051,Key Metrics
+3052,Community Growth
+3053,Engagement Rates
+3054,Content Performance
+3055,Developer Satisfaction
+3056,Tools
+3057,Google Analytics
+3058,Social Media Analytics
+3059,Platform Specific Analytics
+3060,Reporting
+3061,Regular Reports
+3062,Data Visualization
+3063,Insights & Recommendations
+3064,Thought Leadership
+3065,Publishing
+3066,Media Appearances
+3067,Conference Speaking
+3068,Building a Personal Brand
+3069,Networking Strategies
+3070,Meetups
+3071,Online Communities
+3072,Open-Source
+3073,Continuous Learning
+3074,What are Relational Databases?
+3075,RDBMS Benefits and Limitations
+3076,Learn the Basics
+3077,SQL vs NoSQL Databases
+3078,Basic SQL Syntax
+3079,SQL Keywords
+3080,Data Types
+3081,Operators
+3082,SELECT
+3083,INSERT
+3084,UPDATE
+3085,DELETE
+3086,Data Definition Language (DDL)
+3087,Truncate Table
+3088,Alter Table
+3089,Create Table
+3090,Drop Table
+3091,Data Manipulation Language (DML)
+3092,Select
+3093,FROM
+3094,WHERE
+3095,ORDER BY
+3096,GROUP BY
+3097,HAVING
+3098,JOINs
+3099,INSERT
+3100,UPDATE
+3101,DELETE
+3102,Aggregate Queries
+3103,SUM
+3104,COUNT
+3105,AVG
+3106,MIN
+3107,MAX
+3108,GROUP BY
+3109,HAVING
+3110,Data Constraints
+3111,Primary Key
+3112,Foreign Key
+3113,Unique
+3114,NOT NULL
+3115,CHECK
+3116,JOIN Queries
+3117,INNER JOIN
+3118,LEFT JOIN
+3119,RIGHT JOIN
+3120,FULL OUTER JOIN
+3121,Self Join
+3122,Cross Join
+3123,Subqueries
+3124,Scalar
+3125,Column
+3126,Row
+3127,Table
+3128,Nested Subqueries
+3129,Correlated Subqueries
+3130,Advanced Functions
+3131,FLOOR
+3132,ABS
+3133,MOD
+3134,ROUND
+3135,CEILING
+3136,CONCAT
+3137,LENGTH
+3138,SUBSTRING
+3139,REPLACE
+3140,UPPER
+3141,LOWER
+3142,CASE
+3143,NULLIF
+3144,COALESCE
+3145,DATE
+3146,TIME
+3147,TIMESTAMP
+3148,DATEPART
+3149,DATEADD
+3150,Views
+3151,Creating Views
+3152,Modifying Views
+3153,Dropping Views
+3154,Indexes
+3155,Managing Indexes
+3156,Query Optimization
+3157,Transactions
+3158,BEGIN
+3159,COMMIT
+3160,ROLLBACK
+3161,SAVEPOINT
+3162,ACID
+3163,Transaction Isolation Levels
+3164,Data Integrity & Security
+3165,Data Integrity Constraints
+3166,GRANT and Revoke
+3167,DB Security Best Practices
+3168,Stored Procedures & Functions
+3169,Performance Optimization
+3170,Using Indexes
+3171,Optimizing Joins
+3172,Reducing Subqueries
+3173,Selective Projection
+3174,Query Analysis Techniques
+3175,Advanced SQL
+3176,Recursive Queries
+3177,Pivot / Unpivot Operations
+3178,Window Functions
+3179,Common Table Expressions
+3180,Dynamic SQL
+3181,Row_number
+3182,rank
+3183,dense_rank
+3184,lead
+3185,lag
+3186,Pick a Language
+3187,Python
+3188,Go
+3189,C#
+3190,Rust
+3191,C++
+3192,C
+3193,Java
+3194,Data Structures
+3195,Linked List
+3196,Stack
+3197,Queue
+3198,Hash Table
+3199,Array
+3200,Tree
+3201,Binary Tree
+3202,Binary Search Tree
+3203,Full Binary Tree
+3204,Complete Binary Tree
+3205,Balanced Tree
+3206,Unbalanced Tree
+3207,Graph
+3208,Directed Graph
+3209,Undirected Graph
+3210,Spanning Tree
+3211,Adjacency Matrix
+3212,Adjacency List
+3213,Heap
+3214,Asymptotic Notation
+3215,Big O
+3216,Big-Theta
+3217,Big Omega
+3218,Constant
+3219,Logarithmic
+3220,Linear
+3221,Polynomial
+3222,Exponential
+3223,Factorial
+3224,Common Algorithms
+3225,Tail Recursion
+3226,Non-Tail Recursion
+3227,LRU Cache
+3228,MFU Cache
+3229,Binary Search
+3230,Linear Search
+3231,Bubble Sort
+3232,Selection Sort
+3233,Insertion Sort
+3234,Heap Sort
+3235,Quick Sort
+3236,Merge Sort
+3237,Pre-Order Traversal
+3238,In-Order Traversal
+3239,Post Order Traversal
+3240,Breadth First Search
+3241,Depth First Search
+3242,Breadth First Search
+3243,Depth First Search
+3244,Bellman Ford's Algorithm
+3245,Dijkstra's Algorithm
+3246,A* Algorithm
+3247,Finding Hamiltonian Paths
+3248,Solving N Queen Problem
+3249,Maze Solving Problem
+3250,The Knight's Tour Problem
+3251,Dijkstra's Algorithm
+3252,Huffman Coding
+3253,Kruskal's Algorithm
+3254,Ford-Fulkerson Algorithm
+3255,Prim's Algorithm
+3256,Rabin-Karp Algorithm
+3257,LFU Cache
+3258,String Search & Manipulations
+3259,Search Pattern in Text
+3260,Suffix Arrays
+3261,Brute Force Search
+3262,Knuth-Morris Pratt
+3263,Boyer-Moore
+3264,Robin-Karp
+3265,Substring Search
+3266,Floating Point Math
+3267,Endianess
+3268,Big Endian
+3269,Little Endian
+3270,Common UML Diagrams
+3271,Unicode
+3272,ASCII
+3273,Character Encodings
+3274,Class Diagrams
+3275,Usecase Diagrams
+3276,Activity Diagrams
+3277,Statemachine Diagrams
+3278,Sequence Diagrams
+3279,Design Patterns
+3280,GoF Design Patterns
+3281,Architectural Patterns
+3282,Dependency Injection
+3283,Null Object Pattern
+3284,Type Object Pattern
+3285,Basic Math Skills
+3286,Probability
+3287,Combinatorics
+3288,Complexity Classes
+3289,P
+3290,NP
+3291,NP Hard
+3292,NP Complete
+3293,P = NP
+3294,Travelling Salesman Problem
+3295,Knapsack Problem
+3296,Longest Path Problem
+3297,Tries
+3298,Balanced Search Trees
+3299,AVL Trees
+3300,Red / Black Trees
+3301,2 3 Search Trees
+3302,2 3 4 Trees
+3303,K-ary / M-ary Tree
+3304,B-Tree
+3305,System Design
+3306,Horizontal vs Vertical Scaling
+3307,Load Balancing
+3308,Clustering
+3309,Caching
+3310,CDN
+3311,Proxy
+3312,CAP Theorem
+3313,Queues
+3314,Architectural Styles
+3315,REST
+3316,GraphQL
+3317,gRPC
+3318,Cloud Design Patterns
+3319,Long Polling
+3320,Short Polling
+3321,Web Sockets
+3322,SSE
+3323,Databases
+3324,SQL vs NoSQL Databases
+3325,Normalization / Denormalization
+3326,Entity-Relationship Model
+3327,DDL
+3328,DML
+3329,DQL
+3330,DCL
+3331,Locking
+3332,ACID Model
+3333,BASE
+3334,CAP Theorem
+3335,PACELC
+3336,Indexes
+3337,Views
+3338,Transactions
+3339,Stored Procedures
+3340,Database Federation
+3341,Replication
+3342,Sharding
+3343,Networking
+3344,OSI Model
+3345,TCP/IP Model
+3346,DNS
+3347,HTTP
+3348,TLS & HTTPS
+3349,Sockets
+3350,Security
+3351,Public Key Cryptography
+3352,Hashing / Encryption / Encoding
+3353,Hashing Algorithms
+3354,OWASP Top 10
+3355,How Computers Work
+3356,How CPU Executes Programs
+3357,How Computers Calculate
+3358,Registers and RAM
+3359,Instructions and Programs
+3360,CPU Cache
+3361,Processes and Threads
+3362,Process Forking
+3363,Memory Management
+3364,Lock / Mutex / Semaphore
+3365,Concurrency in Multiple Cores
+3366,Scheduling Algorithms
+3367,CPU Interrupts
+3368,Processes vs Threads
+3369,K-D Trees
+3370,Skip Lists
+3371,Co-NP
+3372,Bitwise Operators
+3373,CLI Tools
+3374,Vite
+3375,Components
+3376,Functional Components
+3377,JSX
+3378,Props vs State
+3379,Conditional Rendering
+3380,Composition
+3381,Rendering
+3382,Component Lifecycle
+3383,Lists and Keys
+3384,Render Props
+3385,Refs
+3386,Events
+3387,High Order Components
+3388,Hooks
+3389,useState
+3390,useEffect
+3391,Creating Custom Hooks
+3392,useCallback
+3393,useRef
+3394,useMemo
+3395,useReducer
+3396,useContext
+3397,useState
+3398,Hooks Best Practices
+3399,Routers
+3400,Tanstack Router
+3401,React Router
+3402,State Management
+3403,Context
+3404,Zustand
+3405,Jotai
+3406,Writing CSS
+3407,Headless Component Libraries
+3408,Tailwind CSS
+3409,Component / Libraries
+3410,Panda CSS
+3411,Chakra UI
+3412,Material UI
+3413,Shadcn UI
+3414,CSS Modules
+3415,Radix UI
+3416,React Aria
+3417,Ark UI
+3418,API Calls
+3419,Apollo
+3420,Relay
+3421,urql
+3422,swr
+3423,react-query
+3424,Axios
+3425,rtk-query
+3426,Testing
+3427,Jest
+3428,Vitest
+3429,react-testing-library
+3430,Cypress
+3431,Playwright
+3432,Frameworks
+3433,Next.js
+3434,Astro
+3435,react-router
+3436,Forms
+3437,React Hook Form
+3438,Formik
+3439,Types & Validation
+3440,TypeScript
+3441,Zod
+3442,Animation
+3443,Server APIs
+3444,Framer Motion
+3445,react spring
+3446,GSock
+3447,Suspense
+3448,Portals
+3449,Error Boundaries
+3450,Mobile Applications
+3451,React Native
+3452,MobX
+3453,Components
+3454,create-vue
+3455,Single File Components
+3456,Component Registration
+3457,Props
+3458,Events
+3459,v-model
+3460,Attribute Inheritance
+3461,Templates
+3462,Directives
+3463,API Styles
+3464,Options API
+3465,Composition API
+3466,App Configurations
+3467,Rendering Lists
+3468,Error / Warn Handler
+3469,Global Properties
+3470,Performance
+3471,Conditional Rendering
+3472,v-text
+3473,v-html
+3474,v-show
+3475,v-if
+3476,v-else
+3477,v-else-if
+3478,v-for
+3479,v-on
+3480,v-bind
+3481,v-model
+3482,v-slot
+3483,v-once
+3484,v-pre
+3485,v-cloak
+3486,Optimizing Renders
+3487,Debugging
+3488,Lifecycle Hooks
+3489,Forms Handling
+3490,Input Bindings
+3491,v-model
+3492,Modifiers
+3493,Event Handling
+3494,Binding Events
+3495,Inline / Method Handlers
+3496,Event Modifiers
+3497,Key Modifiers
+3498,Mouse Button Modifiers
+3499,Computed Properties
+3500,Async Components
+3501,Teleport Components
+3502,Provide / Inject
+3503,Custom Directives
+3504,Plugins
+3505,Watchers
+3506,Slots
+3507,Transition
+3508,Transition Group
+3509,VueUse
+3510,Routing
+3511,Vue Router
+3512,Forms
+3513,FormKit
+3514,Vee Validate
+3515,Vuelidate
+3516,SSR
+3517,SSG
+3518,Quasar
+3519,Nuxt.js
+3520,VitePress
+3521,Vitest
+3522,Vue Testing Library
+3523,Cypress
+3524,Playwright
+3525,Tailwind CSS
+3526,Vuetify
+3527,Element UI
+3528,State Management
+3529,Pinia
+3530,API Calls
+3531,Apollo
+3532,Axios
+3533,fetch
+3534,Tanstack Query
+3535,Mobile Apps
+3536,Capacitor
+3537,Introduction to Angular
+3538,Angular Architecture
+3539,Setting up a New Project
+3540,Angular and History
+3541,Components
+3542,Component Anatomy
+3543,Provider
+3544,changeDetection
+3545,Template
+3546,Standalone
+3547,viewProvider
+3548,Encapsulation
+3549,Selector
+3550,Styles
+3551,Imports
+3552,Metadata
+3553,Communication
+3554,Parent-Child Interaction
+3555,ViewChild
+3556,ContentChild
+3557,Component Lifecycle
+3558,Dynamic Components
+3559,Modules
+3560,Module Architecture
+3561,Creating Components
+3562,Creating Modules
+3563,Feature Modules
+3564,Lazy Loading Modules
+3565,Dependencies
+3566,Templates
+3567,Interpolation
+3568,Template Statements
+3569,Understand Binding
+3570,Data Binding
+3571,Property Binding
+3572,Attribute Binding
+3573,Event Binding
+3574,Two-way Binding
+3575,Control Flow
+3576,@Input & @Output
+3577,Template Ref Vars
+3578,Template Syntax
+3579,@if
+3580,@else
+3581,@else if
+3582,@for
+3583,@switch
+3584,@case
+3585,@default
+3586,@let
+3587,@defer
+3588,Pipes
+3589,Change Detection
+3590,Common Pipes
+3591,Pipes Precedence
+3592,Custom Pipes
+3593,Directives
+3594,Structural Directives
+3595,Attribute Directives
+3596,Custom Directives
+3597,Routing
+3598,Configuration
+3599,Lazy Loading
+3600,Router Outlets
+3601,Router Links
+3602,Router Events
+3603,Guards
+3604,Services & Remote Data
+3605,Dependency Injection
+3606,Forms
+3607,Reactive Forms
+3608,Typed Forms
+3609,Template-driven Forms
+3610,Dynamic Forms
+3611,Custom Validators
+3612,Control Value Accessor
+3613,HTTP Client
+3614,Setting Up the Client
+3615,Making Requests
+3616,Writing Interceptors
+3617,RxJS Basics
+3618,Observable Pattern
+3619,Observable Lifecycle
+3620,RxJS vs Promises
+3621,Operators
+3622,Filtering
+3623,Rate Limiting
+3624,Transformation
+3625,Combination
+3626,Signals
+3627,RxJS Interop
+3628,Inputs as Signals
+3629,Queries as Signals
+3630,Model Inputs
+3631,State Management
+3632,NGXS
+3633,NgRx
+3634,Elf
+3635,Zones
+3636,Zoneless Applications
+3637,Developer Tools
+3638,Angular CLI
+3639,Local Setup
+3640,Deployment
+3641,End-to-End Testing
+3642,Schematics
+3643,Build Environments
+3644,CLI Builders
+3645,AoT Compilation
+3646,DevTools
+3647,Language Service
+3648,Libraries
+3649,Using Libraries
+3650,Creating Libraries
+3651,SSR
+3652,SSG
+3653,AnalogJS
+3654,Security
+3655,Cross-site Scripting
+3656,Sanitization
+3657,Trusting Safe Values
+3658,Enforce Trusted Types
+3659,HTTP Vulnerabilities
+3660,Cross-site Request Forgery
+3661,HttpClient CSRF
+3662,XSRF protection
+3663,Cross-site Script Inclusion
+3664,Accessibility
+3665,Attributes
+3666,UI Components
+3667,Containers
+3668,Routing
+3669,Link Identification
+3670,Performance
+3671,Deferrable Views
+3672,Image Optimization
+3673,Zone Pollution
+3674,Slow Computations
+3675,Hydration
+3676,Testing
+3677,Testing Services
+3678,Testing Pipes
+3679,Testing Requests
+3680,Services with Dependencies
+3681,Component Bindings
+3682,Testing Directives
+3683,Debugging Tests
+3684,Component Templates
+3685,Code Coverage
+3686,Internationalization
+3687,Localize Package
+3688,Locales by ID
+3689,Translation Files
+3690,Multiple Locales
+3691,Animation
+3692,Transitions & Triggers
+3693,Complex Sequences
+3694,Reusable Animations
+3695,Route Transitions
+3696,Introduction to JavaScript
+3697,What is JavaScript
+3698,History of JavaScript
+3699,JavaScript Versions
+3700,How to run JavaScript
+3701,Variable Declarations
+3702,Hoisting
+3703,Variable Naming Rules
+3704,Variable Scopes
+3705,var
+3706,let
+3707,const
+3708,Block
+3709,Function
+3710,Global
+3711,All about Variables
+3712,Data Types
+3713,string
+3714,undefined
+3715,number
+3716,bigint
+3717,boolean
+3718,null
+3719,Symbol
+3720,Object
+3721,Object Prototype
+3722,Prototypal Inheritance
+3723,typeof operator
+3724,Built-in Objects
+3725,Type Casting
+3726,Type Conversion vs Coercion
+3727,Explicit Type Casting
+3728,Implicit Type Casting
+3729,Data Structures
+3730,Keyed Collections
+3731,Map
+3732,Weak Map
+3733,Set
+3734,Weak Set
+3735,Indexed Collections
+3736,Typed Arrays
+3737,Arrays
+3738,Structured Data
+3739,JSON
+3740,Equality Comparisons
+3741,#ERROR!
+3742,#ERROR!
+3743,Object.is
+3744,isLooselyEqual
+3745,isStrictlyEqual
+3746,SameValueZero
+3747,Loops and Iterations
+3748,for
+3749,do...while
+3750,while
+3751,for...in loop
+3752,for...of loop
+3753,break / continue
+3754,Control Flow
+3755,Exceptional Handling
+3756,Conditional Statements
+3757,if...else
+3758,Switch
+3759,throw statement
+3760,try/catch/finally
+3761,Error Objects
+3762,Expressions & Operators
+3763,Assignment Operators
+3764,Comparison Operators
+3765,Arithmetic Operators
+3766,Bitwise Operators
+3767,Logical Operators
+3768,BigInt Operators
+3769,String Operators
+3770,Conditional Operators
+3771,Comma Operators
+3772,Unary Operators
+3773,Functions
+3774,Function Parameters
+3775,Arrow Functions
+3776,IIFEs
+3777,arguments object
+3778,Scope & Function Stack
+3779,Built-in Functions
+3780,Default Params
+3781,Rest
+3782,Recursion
+3783,Lexical Scoping
+3784,Closures
+3785,Strict Mode
+3786,Using (this) keyword
+3787,in a method
+3788,in a function
+3789,using it alone
+3790,in event handlers
+3791,in arrow functions
+3792,Function Borrowing
+3793,Explicit Binding
+3794,call
+3795,apply
+3796,bind
+3797,Asynchronous JavaScript
+3798,Event Loop
+3799,setTimeout
+3800,setInterval
+3801,Callbacks
+3802,Promises
+3803,Callback Hell
+3804,async/await
+3805,Working with APIs
+3806,Fetch
+3807,XMLHTTPRequest
+3808,Classes
+3809,Iterators and Generators
+3810,Modules in JavaScript
+3811,CommonJS
+3812,ESM
+3813,Memory Management
+3814,Memory Lifecycle
+3815,DOM APIs
+3816,Garbage Collection
+3817,Using Browser DevTools
+3818,Debugging Issues
+3819,Debugging Memory Leaks
+3820,Debugging Performance
+3821,SameValue
+3822,Introduction to Node.js
+3823,What is Node.js?
+3824,Why use Node.js?
+3825,History of Node.js
+3826,Node.js vs Browser
+3827,Running Node.js Code
+3828,Modules
+3829,CommonJS
+3830,ESM
+3831,Creating & Importing
+3832,[global] keyword
+3833,npm
+3834,Global Installation
+3835,Local Installation
+3836,Updating Packages
+3837,Running Scripts
+3838,npm workspaces
+3839,Creating Packages
+3840,Semantic Versioning
+3841,Error Handling
+3842,JavaScript Errors
+3843,System Errors
+3844,User Specified Errors
+3845,Assertion Errors
+3846,Uncaught Exceptions
+3847,Handling Async Errors
+3848,Callstack / Stack Trace
+3849,Using Debugger
+3850,npx
+3851,Async Programming
+3852,Promises
+3853,async/await
+3854,Callbacks
+3855,setTimeout
+3856,setInterval
+3857,setImmediate
+3858,process.nextTick
+3859,Event Emitter
+3860,Event Loop
+3861,Working with Files
+3862,process.cwd()
+3863,path module
+3864,fs module
+3865,__dirname
+3866,__filename
+3867,glob
+3868,globby
+3869,fs-extra
+3870,chokidar
+3871,Command Line Apps
+3872,dotenv package
+3873,process.env
+3874,Exitting / Exit Codes
+3875,process.stdin
+3876,prompts package
+3877,Inquirer Package
+3878,stdout / stderr
+3879,chalk package
+3880,figlet package
+3881,cli-progress
+3882,process.argv
+3883,commander
+3884,Building & Consuming APIs
+3885,Express.js
+3886,fastify
+3887,NestJS
+3888,Hono
+3889,http module
+3890,axios
+3891,ky
+3892,fetch
+3893,got package
+3894,jsonwebtoken
+3895,passport.js
+3896,Monitor Changes (Dev)
+3897,--watch
+3898,nodemon
+3899,Template Engines
+3900,ejs
+3901,pug
+3902,marko
+3903,Working with Databases
+3904,Mongoose
+3905,Prisma
+3906,Native Drivers
+3907,Knex
+3908,Drizzle
+3909,TypeORM
+3910,Sequelize
+3911,Prisma
+3912,Native Drivers
+3913,Testing
+3914,Vitest
+3915,node:test
+3916,Jest
+3917,Playwright
+3918,Cypress
+3919,Logging
+3920,Winston
+3921,Morgan
+3922,Keep app Running
+3923,pm2
+3924,Threads
+3925,Child Process
+3926,Cluster
+3927,Worker Threads
+3928,Streams
+3929,Debugging
+3930,Memory Leaks
+3931,node --inspect
+3932,Using APM
+3933,Garbage Collection
+3934,Common Built-in Modules
+3935,Introduction to TypeScript
+3936,TypeScript vs JavaScript
+3937,TS and JS Interoperability
+3938,Installation and Configuration
+3939,tsconfig.json
+3940,Compiler Options
+3941,Running TypeScript
+3942,tsc
+3943,ts-node
+3944,TS Playground
+3945,TypeScript Types
+3946,boolean
+3947,number
+3948,string
+3949,void
+3950,undefined
+3951,null
+3952,Interface
+3953,Class
+3954,Enum
+3955,Array
+3956,Tuple
+3957,Object
+3958,unknown
+3959,any
+3960,never
+3961,as const
+3962,as [type]
+3963,as any
+3964,Non-null Assertion
+3965,satisfies keyword
+3966,Type Inference
+3967,Type Compatibility
+3968,Combining Types
+3969,Union Types
+3970,Intersection Types
+3971,Type Aliases
+3972,keyof Operator
+3973,Type Guards / Narrowing
+3974,instanceof
+3975,typeof
+3976,Equality
+3977,Truthiness
+3978,Type Predicates
+3979,TypeScript Functions
+3980,Typing Functions
+3981,Function Overloading
+3982,TypeScript Interfaces
+3983,Types vs Interfaces
+3984,Extending Interfaces
+3985,Interface Declaration
+3986,Hybrid Types
+3987,Classes
+3988,Constructor Params
+3989,Constructor Overloading
+3990,Access Modifiers
+3991,Abstract Classes
+3992,Inheritance vs Polymorphism
+3993,Method Overriding
+3994,Generics
+3995,Generic Types
+3996,Generic Constraints
+3997,Decorators
+3998,Utility Types
+3999,Partial
+4000,Pick
+4001,Omit
+4002,Readonly
+4003,Record
+4004,Exclude
+4005,Extract
+4006,NonNullable
+4007,Parameters
+4008,ReturnType
+4009,InstanceType
+4010,Awaited
+4011,Advanced Types
+4012,Mapped Types
+4013,Conditional Types
+4014,Literal Types
+4015,Template Literal Types
+4016,Recursive Types
+4017,TypeScript Modules
+4018,Namespaces
+4019,Ambient Modules
+4020,External Modules
+4021,Namespace Augmentation
+4022,Global Augmentation
+4023,Ecosystem
+4024,Formatting
+4025,Linting
+4026,Useful Packages
+4027,Build Tools
+4028,Learn the Basics
+4029,Basic Syntax
+4030,Variables and Data Types
+4031,Conditionals
+4032,Type Casting
+4033,Exceptions
+4034,"Functions, Builtin Functions"
+4035,Lists
+4036,Tuples
+4037,Sets
+4038,Dictionaries
+4039,Loops
+4040,Arrays and Linked Lists
+4041,"Heaps, Stacks and Queues"
+4042,Hash Tables
+4043,Binary Search Tree
+4044,Recursion
+4045,Sorting Algorithms
+4046,Modules
+4047,Data Structures & Algorithms
+4048,Builtin
+4049,Custom
+4050,Lambdas
+4051,Decorators
+4052,Iterators
+4053,Regular Expressions
+4054,Object Oriented Programming
+4055,Classes
+4056,Inheritance
+4057,"Methods, Dunder"
+4058,Package Managers
+4059,PyPI
+4060,Pip
+4061,Conda
+4062,Poetry
+4063,List Comprehensions
+4064,Generator Expressions
+4065,Paradigms
+4066,Context Manager
+4067,Learn a Framework
+4068,Pyramid
+4069,Plotly Dash
+4070,gevent
+4071,aiohttp
+4072,Tornado
+4073,Sanic
+4074,Fast API
+4075,Django
+4076,Flask
+4077,Concurrency
+4078,GIL
+4079,Threading
+4080,Multiprocessing
+4081,Asynchrony
+4082,uv
+4083,pyproject.toml
+4084,Pipenv
+4085,virtualenv
+4086,pyenv
+4087,Static Typing
+4088,Pydantic
+4089,mypy
+4090,pyright
+4091,pyre
+4092,Code Formatting
+4093,ruff
+4094,black
+4095,yapf
+4096,Sphinx
+4097,Common Packages
+4098,Testing
+4099,doctest
+4100,nose
+4101,pytest
+4102,unittest / pyUnit
+4103,typing
+4104,tox
+4105,Introduction
+4106,What is System Design?
+4107,How to approach System Design?
+4108,Performance vs Scalability
+4109,Latency vs Throughput
+4110,Availability vs Consistency
+4111,CAP Theorem
+4112,Consistency Patterns
+4113,Weak Consistency
+4114,Eventual Consistency
+4115,Strong Consistency
+4116,Availability Patterns
+4117,Fail-Over
+4118,Replication
+4119,Availability in Numbers
+4120,Background Jobs
+4121,Event-Driven
+4122,Schedule Driven
+4123,Returning Results
+4124,Domain Name System
+4125,Content Delivery Networks
+4126,Push CDNs
+4127,Pull CDNs
+4128,Load Balancers
+4129,LB vs Reverse Proxy
+4130,Load Balancing Algorithms
+4131,Layer 7 Load Balancing
+4132,Layer 4 Load Balancing
+4133,Horizontal Scaling
+4134,Application Layer
+4135,Microservices
+4136,Service Discovery
+4137,Databases
+4138,SQL vs NoSQL
+4139,Replication
+4140,Sharding
+4141,Federation
+4142,Denormalization
+4143,SQL Tuning
+4144,Key-Value Store
+4145,Document Store
+4146,Wide Column Store
+4147,Graph Databases
+4148,Caching
+4149,Refresh Ahead
+4150,Write-behind
+4151,Write-through
+4152,Cache Aside
+4153,Client Caching
+4154,CDN Caching
+4155,Web Server Caching
+4156,Database Caching
+4157,Application Caching
+4158,Asynchronism
+4159,Back Pressure
+4160,Task Queues
+4161,Message Queues
+4162,Idempotent Operations
+4163,Communication
+4164,HTTP
+4165,TCP
+4166,UDP
+4167,RPC
+4168,REST
+4169,gRPC
+4170,GraphQL
+4171,Performance Antipatterns
+4172,Busy Database
+4173,Busy Frontend
+4174,Chatty I/O
+4175,Extraneous Fetching
+4176,Improper Instantiation
+4177,Monolithic Persistence
+4178,No Caching
+4179,Noisy Neighbor
+4180,Retry Storm
+4181,Synchronous I/O
+4182,Monitoring
+4183,Health Monitoring
+4184,Availability Monitoring
+4185,Performance Monitoring
+4186,Security Monitoring
+4187,Usage Monitoring
+4188,Instrumentation
+4189,Visualization & Alerts
+4190,Cloud Design Patterns
+4191,Messaging
+4192,Sequential Convoy
+4193,Scheduling Agent Supervisor
+4194,Queu-based Load Leveling
+4195,Publisher/Subscriber
+4196,Priority Queue
+4197,Pipes and Filters
+4198,Competing Consumers
+4199,Choreography
+4200,Claim Check
+4201,Async Request Reply
+4202,Data Management
+4203,Valet Key
+4204,Static Content Hosting
+4205,Sharding
+4206,Materialized View
+4207,Index Table
+4208,Event Sourcing
+4209,CQRS
+4210,Cache-Aside
+4211,Design & Implementation
+4212,Strangler Fig
+4213,Static Content Hosting
+4214,Sidecar
+4215,Pipes & Filters
+4216,Leader Election
+4217,Gateway Routing
+4218,Gateway Offloading
+4219,Gateway Aggregation
+4220,External Config Store
+4221,Compute Resource Consolidation
+4222,CQRS
+4223,Backends for Frontend
+4224,Anti-Corruption Layer
+4225,Ambassador
+4226,Reliability Patterns
+4227,Availability
+4228,Deployment Stamps
+4229,Geodes
+4230,Health Endpoint Monitoring
+4231,Queue-Based Load Leveling
+4232,Throttling
+4233,High Availability
+4234,Deployment Stamps
+4235,Geodes
+4236,Health Endpoint Monitoring
+4237,Bulkhead
+4238,Circuit Breaker
+4239,Resiliency
+4240,Bulkhead
+4241,Circuit Breaker
+4242,Compensating Transaction
+4243,Health Endpoint Monitoring
+4244,Leader Election
+4245,Queue-Based Load Leveling
+4246,Retry
+4247,Scheduler Agent Supervisor
+4248,Security
+4249,Federated Identity
+4250,Gatekeeper
+4251,Valet Key
+4252,Learn the Basics
+4253,What are APIs
+4254,HTTP
+4255,HTTP Versions
+4256,HTTP Methods
+4257,HTTP Status Codes
+4258,HTTP Headers
+4259,"URL, Query & Path Parameters"
+4260,Cookies
+4261,Content Negotiation
+4262,CORS
+4263,Understand TCP / IP
+4264,Basics of DNS
+4265,Different API Styles
+4266,RESTful APIs
+4267,Simple JSON APIs
+4268,SOAP APIs
+4269,GraphQL APIs
+4270,Building JSON / RESTful APIs
+4271,REST Principles
+4272,URI Design
+4273,Versioning Strategies
+4274,Pagination
+4275,Rate Limiting
+4276,Idempotency
+4277,HATEOAS
+4278,Handling CRUD Operations
+4279,Error Handling
+4280,RFC 7807 - Problem Details for APIs
+4281,HTTP Caching
+4282,Authentication Methods
+4283,Basic Auth
+4284,Token Based Auth
+4285,JWT
+4286,OAuth 2.0
+4287,Session Based Auth
+4288,Authorization Methods
+4289,Role Based Access Control (RBAC)
+4290,Attribute Based Access Control (ABAC)
+4291,API Keys & Management
+4292,API Documentation Tools
+4293,Swagger / Open API
+4294,Postman
+4295,Readme.com
+4296,Stoplight
+4297,API Security
+4298,Common Vulnerabilities
+4299,Best Practices
+4300,API Performance
+4301,Performance Metrics
+4302,Caching Strategies
+4303,Load Balancing
+4304,Rate Limiting / Throttling
+4305,Profiling and Monitoring
+4306,Performance Testing
+4307,API Integration Patterns
+4308,Synchronous vs Asynchronous APIs
+4309,Event Driven Architecture
+4310,API Gateways
+4311,Microservices Architecture
+4312,Messaging Queues
+4313,Webhooks vs Polling
+4314,Batch Processing
+4315,Rabbit MQ
+4316,Kafka
+4317,API Testing
+4318,Unit Testing
+4319,Integration Testing
+4320,Functional Testing
+4321,Load Testing
+4322,Mocking APIs
+4323,Contract Testing
+4324,Error Handling / Retries
+4325,Real-time APIs
+4326,Web Sockets
+4327,Server Sent Events
+4328,Standards and Compliance
+4329,GDPR
+4330,API Lifecycle Management
+4331,CCPA
+4332,PCI DSS
+4333,HIPAA
+4334,PII
+4335,gRPC APIs
+4336,General Development Skills
+4337,C#
+4338,.NET
+4339,.NET CLI
+4340,Learn the Basics of C#
+4341,Git - Version Control
+4342,"GitHub, GitLab, BitBucket"
+4343,HTTP / HTTPs Protocol
+4344,Data Structures and Algorithms
+4345,Database Fundamentals
+4346,SQL Basics
+4347,Database Design Basics
+4348,Stored Procedures
+4349,Constraints
+4350,Triggers
+4351,ASP.NET Core Basics
+4352,MVC
+4353,REST
+4354,Razor Pages
+4355,Razor Components
+4356,Middlewares
+4357,Filters and Attributes
+4358,App Settings and Configs
+4359,StyleCop Rules
+4360,Minimal APIs
+4361,Object Relational Mapping
+4362,Entity Framework Core
+4363,Framework Basics
+4364,Code First + Migrations
+4365,"Lazy, Eager, Explicit Loading"
+4366,Change Tracker API
+4367,Dapper
+4368,RepoDB
+4369,NHibernate
+4370,Dependency Injection
+4371,Scrutor
+4372,Life Cycles
+4373,DI Containers
+4374,Microsoft.Extensions
+4375,AutoFac
+4376,Scoped
+4377,Transient
+4378,Singleton
+4379,Caching
+4380,Memory Cache
+4381,Entity Framework 2nd Level Cache
+4382,Distributed Cache
+4383,Memcached
+4384,Redis
+4385,Databases
+4386,Search Engines
+4387,Elastic Search
+4388,Solr
+4389,Sphinx
+4390,Cloud
+4391,Cosmos DB
+4392,Dynamo DB
+4393,Relational
+4394,SQL Server
+4395,PostgreSQL
+4396,MariaDB
+4397,MySQL
+4398,NoSQL
+4399,MongoDB
+4400,Cassandra
+4401,LiteDB
+4402,CouchDB
+4403,Log Frameworks
+4404,Serilog
+4405,NLog
+4406,API Clients and Communication
+4407,REST
+4408,Gridlify
+4409,Odata
+4410,GraphQL
+4411,GraphQL .NET
+4412,HotChocolate
+4413,gRPC
+4414,Real-Time Communication
+4415,Web Sockets
+4416,SignalR Core
+4417,Object Mapping
+4418,AutoMapper
+4419,Mapperly
+4420,Manual Mapping
+4421,Task Scheduling
+4422,Native Background Service
+4423,Hangfire
+4424,Quartz
+4425,Coravel
+4426,Testing
+4427,Playwright
+4428,Puppeteer
+4429,Cypress
+4430,WebApplicationFactory
+4431,Test Containers
+4432,.NET Aspire
+4433,Respawn
+4434,Specflow
+4435,Light BDD
+4436,XUnit
+4437,NUnit
+4438,Shouldly
+4439,NSubstitute
+4440,Moq
+4441,FakeItEasy
+4442,AutoFixture
+4443,Bogus
+4444,Microservices
+4445,ActiveMQ
+4446,Kafka
+4447,RabbitMQ
+4448,NetMQ
+4449,Azure Service Bus
+4450,Mass Transit
+4451,NServiceBus
+4452,EasyNetQ
+4453,Ocelot
+4454,YARP
+4455,Docker
+4456,Kubernetes
+4457,.NET Aspire
+4458,Orleans
+4459,SteelToe
+4460,Dapr
+4461,CI / CD
+4462,GitHub Actions
+4463,Azure Pipelines
+4464,GitLab CI/CD
+4465,Circle CI
+4466,Template Engines
+4467,Razor
+4468,Scriban
+4469,Fluid
+4470,Frameworks
+4471,Blazor
+4472,.NET MAUI
+4473,Scalar
+4474,MediatR
+4475,FluentValidation
+4476,Polly
+4477,Marten
+4478,Nuke
+4479,Benchmark.NET
+4480,Distributed Lock
+4481,MSTest
+4482,Learn the Basics
+4483,Basic Syntax
+4484,Data Types
+4485,Conditionals
+4486,Arrays
+4487,Loops
+4488,Variables and Scopes
+4489,Type Casting
+4490,Strings and Methods
+4491,Math Operations
+4492,Lifecycle of a Program
+4493,Classes and Objects
+4494,Attributes and Methods
+4495,Access Specifiers
+4496,Static Keyword
+4497,Nested Classes
+4498,Basics of OOP
+4499,Method Chaining
+4500,Enums
+4501,Final Keyword
+4502,Object Lifecycle
+4503,Abstraction
+4504,Inheritance
+4505,Method Overloading / Overriding
+4506,Static vs Dynamic Binding
+4507,Interfaces
+4508,Encapsulation
+4509,Record
+4510,Packages
+4511,Initializer Block
+4512,Pass by Value / Pass by Reference
+4513,Annotations
+4514,Lambda Expressions
+4515,Modules
+4516,Array vs ArrayList
+4517,Set
+4518,Map
+4519,Queue
+4520,Stack
+4521,Dequeue
+4522,Iterator
+4523,Generic Collections
+4524,Optionals
+4525,Exception Handling
+4526,Web Frameworks
+4527,Spring (Spring Boot)
+4528,Play Framework
+4529,Quarkus
+4530,Build Tools
+4531,Maven
+4532,Gradle
+4533,Bazel
+4534,Dependency Injection
+4535,I/O Operations
+4536,File Operations
+4537,Concurrency
+4538,Threads
+4539,Virtual Threads
+4540,Java Memory Model
+4541,volatile keyword
+4542,Cryptography
+4543,Date and Time
+4544,Functional Composition
+4545,High Order Functions
+4546,Functional Interfaces
+4547,Stream API
+4548,Networking
+4549,Regular Expressions
+4550,Database Access
+4551,Spring Data JPA
+4552,Hibernate
+4553,EBean
+4554,Logging Frameworks
+4555,Logback
+4556,Log4j2
+4557,SLF4J
+4558,TinyLog
+4559,Testing
+4560,JDBC
+4561,JUnit
+4562,TestNG
+4563,REST Assured
+4564,JMeter
+4565,Cucumber-JVM
+4566,Mocking > Mockito
+4567,Javalin
+4568,Diamond Inheritance
+4569,Forward Declaration
+4570,Introduction to Language
+4571,What is C++?
+4572,Why use C++
+4573,C vs C++
+4574,Setting up your Environment
+4575,Installing C++
+4576,Code Editors / IDEs
+4577,Running your First Program
+4578,Basic Operations
+4579,Arithmetic Operators
+4580,Logical Operators
+4581,Bitwise Operators
+4582,Control Flow & Statements
+4583,for / while / do while loops
+4584,if else / switch / goto
+4585,Functions
+4586,Static Polymorphism
+4587,Function Overloading
+4588,Operator Overloading
+4589,Lambdas
+4590,Data Types
+4591,Static Typing
+4592,Dynamic Typing
+4593,RTTI
+4594,Pointers and References
+4595,References
+4596,Memory Model
+4597,Lifetime of Objects
+4598,Smart Pointers
+4599,weak_ptr
+4600,shared_ptr
+4601,unique_ptr
+4602,Raw Pointers
+4603,New/Delete Operators
+4604,Memory Leakage
+4605,Structuring Codebase
+4606,Scope
+4607,Namespaces
+4608,Headers / CPP Files
+4609,Structures and Classes
+4610,"Rule of Zero, Five, Three"
+4611,Multiple Inheritance
+4612,Object Oriented Programming
+4613,Virtual Methods
+4614,Virtual Tables
+4615,Dynamic Polymorphism
+4616,Exception Handling
+4617,Exit Codes
+4618,Exceptions
+4619,Access Violations
+4620,Language Concepts
+4621,auto (Automatic Type Deduction)
+4622,Type Casting
+4623,static_cast
+4624,const_cast
+4625,dynamic_cast
+4626,reinterpret_cast
+4627,Undefined Behavior (UB)
+4628,Argument Dependent Lookup (ADL)
+4629,Name Mangling
+4630,Macros
+4631,Standard Library + STL
+4632,Iterators
+4633,iostream
+4634,Algorithms
+4635,Date / Time
+4636,Multithreading
+4637,Containers
+4638,Templates
+4639,Variadic Templates
+4640,Template Specialization
+4641,Type Traits
+4642,SFINAE
+4643,Full Template Specialization
+4644,Partial Template Specialization
+4645,Idioms
+4646,Non-Copyable / Non-Moveable
+4647,Erase-Remove
+4648,Copy and Swap
+4649,Copy on Write
+4650,RAII
+4651,Pimpl
+4652,CRTP
+4653,Standards
+4654,C++ 11 / 14
+4655,C++ 17
+4656,C++ 20
+4657,Newest
+4658,C++ 0x
+4659,Debuggers
+4660,Understanding Debugger Messages
+4661,Debugging Symbols
+4662,WinDBg
+4663,GDB
+4664,Compilers
+4665,Compiler Stages
+4666,Compilers and Features
+4667,Build Systems
+4668,CMAKE
+4669,Makefile
+4670,Ninja
+4671,Package Managers
+4672,vcpkg
+4673,NuGet
+4674,Conan
+4675,Spack
+4676,Working with Libraries
+4677,Library Inclusion
+4678,Licensing
+4679,Boost
+4680,OpenCV
+4681,POCO
+4682,protobuf
+4683,gRPC
+4684,Tensorflow
+4685,pybind11
+4686,spdlog
+4687,opencl
+4688,fmt
+4689,ranges_v3
+4690,gtest / gmock
+4691,Qt
+4692,Catch2
+4693,Orbit Profiler
+4694,PyTorch C++
+4695,Basics of Dart
+4696,Dart Pad
+4697,Variables
+4698,Built-in Types
+4699,Functions
+4700,Operators
+4701,Control Flow Statements
+4702,Development Environment
+4703,Flutter CLI
+4704,FVM
+4705,VS Code
+4706,Android Studio
+4707,IntelliJ Idea
+4708,Widgets
+4709,Responsive Widgets
+4710,Inherited Widgets
+4711,Stateless Widgets
+4712,Stateful Widgets
+4713,Styled Widgets
+4714,Material Widgets
+4715,Cupertino Widgets
+4716,Working with Assets
+4717,Fonts
+4718,Images
+4719,Other File Types
+4720,Version Control Systems
+4721,Git
+4722,Repo Hosting Services
+4723,GitHub
+4724,Design Principles
+4725,Dependency Injection
+4726,Design Patterns
+4727,SOLID Principles
+4728,OOP
+4729,Package Managers
+4730,pub.dev
+4731,flutter pub / dart pub
+4732,Working with APIs
+4733,JSON Serialize / Deserialize
+4734,Web Sockets
+4735,GraphQL
+4736,RESTful APIs
+4737,Storage
+4738,SQLite
+4739,Shared Preferences
+4740,Firebase
+4741,Authentication
+4742,Storage
+4743,Firestore
+4744,Push Notifications
+4745,Remote Cnofig
+4746,Cloud Functions
+4747,Advanced Dart
+4748,Core Libraries
+4749,Lists
+4750,Streams
+4751,Futures
+4752,Collections
+4753,Lambdas
+4754,Functional Programming
+4755,Isolates
+4756,Async / Await
+4757,State Management
+4758,ChangeNotifier
+4759,ValueNotifier
+4760,Redux
+4761,Riverpod
+4762,BLoC
+4763,Provider
+4764,GetX
+4765,Reactive Programming
+4766,RxDart
+4767,Animations
+4768,Animation Controller
+4769,Animated Builder
+4770,Animated Widget
+4771,Curved Animation
+4772,Hero
+4773,Opacity
+4774,Testing
+4775,Unit Testing
+4776,Widget Testing
+4777,Integration Testing
+4778,TDD
+4779,BDD
+4780,Dev Tools
+4781,Flutter Inspector
+4782,Flutter Outline
+4783,Memory Allocation
+4784,Flutter Internals
+4785,Render Objects
+4786,3 Trees
+4787,Immutability
+4788,CI / CD
+4789,Fast Lane
+4790,Codemagic
+4791,Bitrise
+4792,GitHub Actions
+4793,Firebase App Dist
+4794,Analytics
+4795,Segment
+4796,Mix Panel
+4797,Firebase Analytics
+4798,Google Analytics
+4799,Deployment
+4800,Guidelines & Protocols
+4801,AppStore
+4802,Playstore
+4803,Introduction
+4804,Configuration
+4805,Dependency Injection
+4806,Spring IOC
+4807,Spring AOP
+4808,Spring MVC
+4809,Annotations
+4810,Spring Bean Scope
+4811,Terminology
+4812,Architecture
+4813,Why use Spring?
+4814,Spring Security
+4815,Authentication
+4816,Authorization
+4817,OAuth2
+4818,JWT Authentication
+4819,Spring Boot Starters
+4820,Autoconfiguration
+4821,Actuators
+4822,Embedded Server
+4823,Hibernate
+4824,Transactions
+4825,Relationships
+4826,Entity Lifecycle
+4827,Spring Data
+4828,Spring Data JPA
+4829,Spring Data MongoDB
+4830,Spring Data JDBC
+4831,Microservices
+4832,Spring Cloud
+4833,Spring Cloud Gateway
+4834,Cloud Config
+4835,Spring Cloud Circuit Breaker
+4836,Spring Cloud Open Feign
+4837,Micrometer
+4838,Eurkea
+4839,Spring MVC
+4840,Servlet
+4841,JSP Files
+4842,Architecture
+4843,Components
+4844,Testing
+4845,JPA Test
+4846,Mock MVC
+4847,@SpringBootTest Annotation
+4848,@MockBean Annotation
+4849,Introduction to Go
+4850,Why use Go
+4851,History of Go
+4852,Setting up the Environment
+4853,Hello World in Go
+4854,`go` command
+4855,Variables & Constants
+4856,var vs :=
+4857,Zero Values
+4858,const and iota
+4859,Scope and Shadowing
+4860,Data Types
+4861,Boolean
+4862,"Integers (Signed, Unsigned)"
+4863,Floating Points
+4864,Complex Numbers
+4865,Runes
+4866,Raw String Literals
+4867,Interpreted String Literals
+4868,Type Conversion
+4869,Commands & Docs
+4870,Arrays
+4871,Slices
+4872,Capacity and Growth
+4873,make()
+4874,Slice to Array Conversion
+4875,Array to Slice Conversion
+4876,Strings
+4877,Maps
+4878,Comma-Ok Idiom
+4879,Structs
+4880,Struct Tags & JSON
+4881,Embedding Structs
+4882,Conditionals
+4883,if
+4884,if-else
+4885,switch
+4886,Loops
+4887,for loop
+4888,for range
+4889,Iterating Maps
+4890,Iterating Strings
+4891,break
+4892,continue
+4893,goto (discouraged)
+4894,Functions
+4895,Functions Basics
+4896,Variadic Functions
+4897,Multiple Return Values
+4898,Anonymous Functions
+4899,Closures
+4900,Named Return Values
+4901,Call by Value
+4902,Pointers
+4903,Pointers Basics
+4904,Pointers with Structs
+4905,With Maps & Slices
+4906,Memory Management
+4907,Garbage Collection
+4908,Methods vs Functions
+4909,Pointer Receivers
+4910,Value Receivers
+4911,Interfaces
+4912,Empty Interfaces
+4913,Embedding Interfaces
+4914,Type Assertions
+4915,Type Switch
+4916,Interfaces Basics
+4917,Generics
+4918,Why Generics?
+4919,Generic Functions
+4920,Generic Types / Interfaces
+4921,Type Constraints
+4922,Type Inference
+4923,Error Handling Basics
+4924,`error` interface
+4925,errors.New
+4926,fmt.Errorf
+4927,Wrapping/Unwrapping Errors
+4928,Sentinel Errors
+4929,`panic` and `recover`
+4930,Stack Traces & Debugging
+4931,Modules & Dependencies
+4932,go mod init
+4933,go mod tidy
+4934,go mod vendor
+4935,Packages
+4936,Package Import Rules
+4937,Using 3rd Party Packages
+4938,Publishing Modules
+4939,Goroutines
+4940,Channels
+4941,Buffered vs Unbuffered
+4942,Select Statement
+4943,Worker Pools
+4944,`sync` Package
+4945,Mutexes
+4946,WaitGroups
+4947,`context` Package
+4948,Deadlines & Cancellations
+4949,Common Usecases
+4950,Concurrency Patterns
+4951,fan-in
+4952,fan-out
+4953,pipeline
+4954,Race Detection
+4955,Standard Library
+4956,I/O & File Handling
+4957,flag
+4958,time
+4959,encoding/json
+4960,os
+4961,bufio
+4962,slog
+4963,regexp
+4964,go:embed for embedding
+4965,`testing` package basics
+4966,Table-driven Tests
+4967,Mocks and Stubs
+4968,`httptest` for HTTP Tests
+4969,Benchmarks
+4970,Coverage
+4971,Building CLIs
+4972,Cobra
+4973,urfave/cli
+4974,bubbletea
+4975,Web Development
+4976,net/http (standard)
+4977,gin
+4978,echo
+4979,fiber
+4980,beego
+4981,gRPC & Protocol Buffers
+4982,ORMs & DB Access
+4983,pgx
+4984,GORM
+4985,Logging
+4986,Zerolog
+4987,Zap
+4988,Realtime Communication
+4989,Melody
+4990,Centrifugo
+4991,go run
+4992,go build
+4993,go install
+4994,go fmt
+4995,go mod
+4996,go test
+4997,go clean
+4998,go doc
+4999,go version
+5000,go generate
+5001,Build Tags
+5002,go vet
+5003,goimports
+5004,revive
+5005,staticcheck
+5006,golangci-lint
+5007,govulncheck
+5008,pprof
+5009,trace
+5010,Race Detector
+5011,Cross-compilation
+5012,Building Executables
+5013,Memory Mgmt. in Depth
+5014,Escape Analysis
+5015,Reflection
+5016,Unsafe Package
+5017,Build Constraints & Tags
+5018,CGO Basics
+5019,Compiler & Linker Flags
+5020,Plugins & Dynamic Loading
+5021,Introduction
+5022,What is Rust?
+5023,Why use Rust?
+5024,Installing Rust and Cargo
+5025,IDEs and Rust Toolchains
+5026,Rust REPL (Rust Playground)
+5027,Language Basics
+5028,"Variables, DataTypes and Constants"
+5029,Control Flow and Constructs
+5030,Functions and Method Syntax
+5031,Pattern Matching & Destructuring
+5032,Enums
+5033,Structs
+5034,Traits
+5035,Impl Blocks
+5036,Integers
+5037,Boolean
+5038,Floats
+5039,Character
+5040,Tuple
+5041,String
+5042,Array
+5043,Hashmap
+5044,Vector
+5045,Hashset
+5046,LinkedList
+5047,Stack
+5048,Queue
+5049,Binary Heap
+5050,Ownsership Rules & Memory Safety
+5051,"Borrowing, References and Slices"
+5052,Deep Dive: Stack vs Heap
+5053,BTreeMap
+5054,BTreeSet
+5055,RC
+5056,Arc
+5057,Mutex
+5058,RwLock
+5059,Channels
+5060,Error Handling
+5061,Option and Result Enumerations
+5062,Propagating Errors and `?` Operator
+5063,Custom Error Types and Traits
+5064,Modules & Crates
+5065,Code Organization & Namespacing
+5066,Dependency Management with Cargo
+5067,Publishing on Crates.io
+5068,Concurrency & Parallelism
+5069,"Threads, Channels and Message Passing"
+5070,Atomic Operations & Memory Barriers
+5071,Futures and Async/Await Paradigm
+5072,Testing
+5073,Unit & Integration Testing
+5074,Mocking & Property Based Testing
+5075,Traits & Generics
+5076,Trait Definitions & Implementations
+5077,Trait Bounds and Associated Types
+5078,Generics & Type-Level Programming
+5079,Lifetimes & Borrow Checker
+5080,Explicit Lifetime Annotations
+5081,Lifetime Elision Rules
+5082,Covariant & Contravariant Lifetimes
+5083,Macros & Metaprogramming
+5084,Declarative Macros with macro_rules!
+5085,Procedural Macros & Custom Derive
+5086,Domain Specific Languages (DSLs)
+5087,Web Development
+5088,Axum
+5089,Actix
+5090,Leptos
+5091,Loco
+5092,Rocket
+5093,Asynchronous Programming
+5094,Tokio
+5095,async-std
+5096,smol
+5097,Networking
+5098,reqwest
+5099,hyper
+5100,quinn
+5101,Serialization / Deserialization
+5102,Serde
+5103,json-rust
+5104,toml-rust
+5105,Database and ORM
+5106,Diesel
+5107,sqlx
+5108,rusqlite
+5109,Cryptography
+5110,rust-crypto
+5111,sodiumoxide
+5112,ring
+5113,CLI Utilities
+5114,clap
+5115,structopt
+5116,termion
+5117,Game Development
+5118,bevy
+5119,fyrox
+5120,ggez
+5121,macroquad
+5122,wgpu-rs
+5123,GUI Development
+5124,tauri
+5125,gtk-rs
+5126,relm
+5127,Embedded and Systems
+5128,embedded-hal
+5129,rppal
+5130,nrf-hal
+5131,WebAssembly (WASM)
+5132,wasm-bindgen
+5133,wasm-pack
+5134,wasmer
+5135,Debugging
+5136,rust-gdb
+5137,rust-lldb
+5138,Documenting with `rustdoc`
+5139,Performance and Profiling
+5140,Criterion.rs
+5141,Introduction
+5142,What is GraphQL
+5143,Problems GraphQL Solves
+5144,Thinking in Graphs
+5145,GraphQL Queries
+5146,GraphQL on Frontend
+5147,GraphQL on Backend
+5148,What are Queries?
+5149,Fields
+5150,Aliases
+5151,Arguments
+5152,Directives
+5153,Variables
+5154,Fragments
+5155,Mutations
+5156,What are Mutations?
+5157,Multiple Fields in Mutation
+5158,Operation Name
+5159,Subscriptions
+5160,What are Subscriptions
+5161,Event Based Subscriptions
+5162,Live Queries
+5163,@defer / @stream directives
+5164,Schema
+5165,Type System
+5166,Fields
+5167,Scalars
+5168,Enums
+5169,Interfaces
+5170,Lists
+5171,Objects
+5172,Unions
+5173,Arguments
+5174,Validation
+5175,Execution
+5176,Root Fields
+5177,Resolvers
+5178,Synchronous
+5179,Asynchronous
+5180,Scalar Coercion
+5181,Lists
+5182,Validation
+5183,Producing the Result
+5184,Serving over Internet
+5185,GraphQL Over HTTP Spec
+5186,Caching
+5187,Batching
+5188,Authorization
+5189,Specification
+5190,Realtime
+5191,Authorization
+5192,Specification
+5193,Authorization
+5194,Pagination
+5195,GraphQL.js
+5196,GraphQL Go
+5197,GraphQL Java
+5198,graphql-http
+5199,GraphQL Yoga
+5200,Apollo Server
+5201,mercurius
+5202,graphql-http
+5203,Relay
+5204,Apollo Client
+5205,Urql
+5206,Clean Code
+5207,Programming Paradigms
+5208,Object Oriented Programming
+5209,Design Principles
+5210,Design Patterns
+5211,Architectural Principles
+5212,Architectural Styles
+5213,Architectural Patterns
+5214,Enterprise Patterns
+5215,Clean Code Principles
+5216,Be consistent
+5217,Meaningful names over comments
+5218,Indentation and Code Style
+5219,Keep methods / classes / files small
+5220,Pure functions
+5221,Minimize cyclomatic complexity
+5222,"Avoid passing nulls, booleans"
+5223,Keep framework code distant
+5224,Use correct constructs
+5225,Tests should be fast and independent
+5226,Organize code by actor it belongs to
+5227,Command query separation
+5228,Keep it simple and refactor often
+5229,Programming Paradigms
+5230,Structured Programming
+5231,Functional Programming
+5232,Object Oriented Programming
+5233,Object Oriented Programming
+5234,Model-Driven Design
+5235,Domain Models
+5236,Class Variants
+5237,Layered Architectures
+5238,Domain Language
+5239,Anemic Models
+5240,Abstract Classes
+5241,Concrete Classes
+5242,Scope / Visibility
+5243,Interfaces
+5244,Inheritance
+5245,Polymorphism
+5246,Abstraction
+5247,Encapsulation
+5248,Design Principles
+5249,Composition over Inheritance
+5250,Encapsulate what varies
+5251,Program against abstractions
+5252,Hollywood Principle
+5253,Law of Demeter
+5254,"Tell, don't ask"
+5255,SOLID
+5256,DRY
+5257,YAGNI
+5258,Design Patterns
+5259,GoF Design Patterns
+5260,PoSA Patterns
+5261,Architectural Principles
+5262,Component Principles
+5263,Policy vs Detail
+5264,Coupling and Cohesion
+5265,Boundaries
+5266,Architectural Styles
+5267,Messaging
+5268,Event-Driven
+5269,Publish-Subscribe
+5270,Distributed
+5271,Client-Server
+5272,Peer-to-Peer
+5273,Structural
+5274,Component-Based
+5275,Monolithic
+5276,Layered
+5277,Architectural Patterns
+5278,Domain-Driven Design
+5279,Model-View Controller
+5280,Microservices
+5281,Blackboard Pattern
+5282,Microkernel
+5283,Serverless Architecture
+5284,Message Queues / Streams
+5285,Event Sourcing
+5286,SOA
+5287,CQRS
+5288,Enterprise Patterns
+5289,DTOs
+5290,Identity Maps
+5291,Usecases
+5292,Repositories
+5293,Mappers
+5294,Transaction Script
+5295,Commands / Queries
+5296,Value Objects
+5297,Domain Models
+5298,Entities
+5299,ORMs
+5300,Understand the Basics
+5301,What is a Design System?
+5302,Need of Design System
+5303,Design System vs Component Library
+5304,What is Atomic Design
+5305,Stakeholders Involved in Building
+5306,Design System Examples
+5307,Terminology
+5308,Component
+5309,Component Library
+5310,Design Language
+5311,Governance
+5312,Guidelines
+5313,Pattern
+5314,Pilot
+5315,Token
+5316,UI Kit
+5317,Making a Design System
+5318,Making it from Scratch
+5319,Making it from Existing Design
+5320,Existing Design Analysis
+5321,Performing a Visual Audit
+5322,Identify Existing Design Process
+5323,Icons
+5324,Visual Forms
+5325,Sizing
+5326,Spaces
+5327,Color
+5328,Typography
+5329,Avatar
+5330,Badges
+5331,Banners
+5332,Buttons
+5333,Cards
+5334,Dropdowns
+5335,Forms
+5336,...other
+5337,A/B Tests & Experiments
+5338,Regional Requirements
+5339,Documentation
+5340,Creating Design Language
+5341,Writing Guidelines
+5342,Tone of Voice
+5343,Terminology
+5344,Design Principles
+5345,Vision
+5346,Monochrome Version
+5347,Small Use Guidance
+5348,Placement Guidance
+5349,Usage Guidance
+5350,File Formats
+5351,Accessibility
+5352,User Onboarding
+5353,Microcopy Guidelines
+5354,Defining Design Tokens
+5355,Accessibility
+5356,Functional Colors
+5357,Dark Mode
+5358,Guidelines
+5359,Units
+5360,Grid
+5361,Breakpoints
+5362,Spacking
+5363,Responsiveness
+5364,Grid Relation
+5365,Readability
+5366,Performance
+5367,Guidelines
+5368,Accessibility
+5369,Style
+5370,Naming
+5371,Grid Relation
+5372,Sizes
+5373,Keywords
+5374,Reserved Icons
+5375,Guidelines
+5376,Creating Core Components
+5377,Avatar
+5378,Input Text
+5379,Banner
+5380,Badge
+5381,Button
+5382,Card
+5383,Carousel
+5384,Dropdown
+5385,Icon
+5386,Input Checkbox
+5387,Input Radio
+5388,Input Switch
+5389,Select
+5390,Textarea
+5391,List
+5392,Loading Indicator
+5393,Modal
+5394,Tabs
+5395,Toast
+5396,Tooltip
+5397,Tooling
+5398,Design Editor
+5399,Plugins
+5400,Version Control
+5401,Contribution Guidelines
+5402,Component Catalog
+5403,Documentation
+5404,Code Style
+5405,Unit Testing
+5406,Accessibility Testing
+5407,Semantic Versioning
+5408,Release Strategy
+5409,Commit Guidelines
+5410,PR Templates
+5411,Contribution Guidelines
+5412,Project Management
+5413,Roadmap
+5414,Milestones
+5415,Ticketing
+5416,Component Analytics
+5417,Logging
+5418,Tooling Analytics
+5419,Service and Health Metrics
+5420,Community Meetings
+5421,Communication Channel
+5422,Open Hours
+5423,FAQs
+5424,Introduction
+5425,What is React Native?
+5426,Why use React Native?
+5427,React Native Alternatives
+5428,Learn the Pre-requisites
+5429,JavaScript Basics
+5430,CSS Basics
+5431,Components
+5432,State
+5433,JSX
+5434,Props
+5435,Environment Setup
+5436,Expo
+5437,create-expo-app
+5438,Expo Snack
+5439,Expo Tradeoffs
+5440,React Native CLI
+5441,Metro Bundler
+5442,Development Workflow
+5443,Running on Device
+5444,In-App Developer Menu
+5445,Enabling Fast Refresh
+5446,LogBox
+5447,Sourcemaps
+5448,DevTools
+5449,Core Components
+5450,Text
+5451,Text Input
+5452,Button
+5453,Image
+5454,ImageBackground
+5455,Switch
+5456,StatusBar
+5457,ActivityIndicator
+5458,Modal
+5459,Pressable
+5460,View
+5461,SafeAreaView
+5462,KeyboardAvoidingView
+5463,Listings
+5464,ScrollView
+5465,ListViews
+5466,FlatList
+5467,SectionList
+5468,RefreshControl
+5469,Writing Platform Specific Code
+5470,Platform Module
+5471,File Extensions
+5472,react-native-web
+5473,Styling
+5474,Stylesheets
+5475,Layouts & Flexbox
+5476,Accessibility
+5477,Networking
+5478,Connectivity Status
+5479,WebSockets
+5480,Fetch
+5481,Push Notifications
+5482,Interactions
+5483,Touchables
+5484,Gesture Handling
+5485,Scrolling & Swiping
+5486,Screen Navigation
+5487,Animations
+5488,DeepLinking
+5489,Security
+5490,Authentication
+5491,Networking
+5492,Storage
+5493,Storage
+5494,react-native-async-storage
+5495,expo-secure-store
+5496,expo-file-system
+5497,expo-sqlite
+5498,Other Storage Options
+5499,Testing
+5500,Jest
+5501,React Test Renderer
+5502,React Native Testing Library
+5503,Detox
+5504,Appium
+5505,Performance
+5506,Understand Frame Rates
+5507,Common Problem Sources
+5508,Speeding up Builds
+5509,Optimizing Flatlist Config
+5510,RAM Bundles + Inline Requires
+5511,Profiling
+5512,Using Native Modules
+5513,For iOS
+5514,For Android
+5515,Publishing Apps
+5516,Apple App store
+5517,Google Play Store
+5518,Introduction
+5519,What is Cloud Computing?
+5520,IaaS vs PaaS vs SaaS
+5521,Public vs Private vs Hybrid Cloud
+5522,AWS Global Infrastructure
+5523,Shared Responsibility Model
+5524,Well Architected Framework
+5525,Introduction to AWS
+5526,EC2
+5527,Instance Types
+5528,CPU Credits
+5529,Storage / Volumes
+5530,Keypairs
+5531,Elastic IP
+5532,User Data Scripts
+5533,Purchasing Options
+5534,VPC
+5535,CIDR Blocks
+5536,Subnets
+5537,Route Tables
+5538,Security Groups
+5539,Internet Gateway
+5540,NAT Gateway
+5541,Private Subnet
+5542,Public Subnet
+5543,IAM
+5544,Policies
+5545,Users / User Groups
+5546,Roles
+5547,Identity-based
+5548,Resource-based
+5549,Instance Profiles
+5550,Assuming Roles
+5551,Auto-Scaling
+5552,AMIs
+5553,Launch Templates
+5554,Auto-Scaling Groups
+5555,Scaling Policies
+5556,Elastic Load Balancers
+5557,S3
+5558,Buckets / Objects
+5559,Bucket / Object Lifecycle
+5560,Storage Types
+5561,Standard
+5562,S3-IA
+5563,Glacier
+5564,SES
+5565,Sandbox / Sending Limits
+5566,Identity Verification
+5567,DKIM Setup
+5568,Feedback Handling
+5569,Configuration Sets
+5570,Sender Reputation
+5571,Dedicated IP
+5572,Route53
+5573,Hosted Zones
+5574,Routing Policies
+5575,Health Checks
+5576,Cloudwatch
+5577,Metrics
+5578,Events
+5579,Logs
+5580,RDS
+5581,DB Instances
+5582,Storage Types
+5583,Backup / Restore
+5584,General Purpose
+5585,Provisioned IOPS
+5586,Magnetic
+5587,DynamoDB
+5588,Tables / Items / Attributes
+5589,Primary Keys / Secondary Indexes
+5590,Data Modeling
+5591,Streams
+5592,Capacity Settings
+5593,Limits
+5594,Backup / Restore
+5595,DynamoDB Local
+5596,ElastiCache
+5597,Quotas
+5598,ECR
+5599,ECS
+5600,Clusters / ECS Container Agents
+5601,Tasks
+5602,Services
+5603,Launch Config / Autoscaling Groups
+5604,Fargate
+5605,EKS
+5606,Lambda
+5607,Creating / Invoking Functions
+5608,Layers
+5609,Custom Runtimes
+5610,Versioning / Aliases
+5611,Event Bridge / Scheduled Execution
+5612,Cold Start and Limitations
+5613,API Gateway
+5614,Lambda@Edge
+5615,Cloudfront
+5616,Distributions
+5617,Policies
+5618,Invalidations
+5619,Introduction
+5620,What are Containers?
+5621,Why do we need Containers?
+5622,Bare Metal vs VMs vs Containers
+5623,Docker and OCI
+5624,Package Managers
+5625,Users / Groups Permissions
+5626,Shell Commands
+5627,Shell Scripting
+5628,Programming Languages
+5629,Application Architecture
+5630,Underlying Technologies
+5631,Namespaces
+5632,cgroups
+5633,Union Filesystems
+5634,Installation / Setup
+5635,Docker Desktop (Win/Mac/Linux)
+5636,Docker Engine ( Linux )
+5637,Basics of Docker
+5638,Data Persistence
+5639,Ephemeral Container Filesystem
+5640,Volume Mounts
+5641,Bind Mounts
+5642,Using 3rd Party Container Images
+5643,Databases
+5644,Interactive Test Environments
+5645,Command Line Utilities
+5646,Building Container Images
+5647,Dockerfiles
+5648,Efficient Layer Caching
+5649,Image Size and Security
+5650,Container Registries
+5651,Dockerhub
+5652,Image Tagging Best Practices
+5653,"Others (ghcr, ecr, gcr, acr, etc)"
+5654,Running Containers
+5655,docker run
+5656,docker compose
+5657,Runtime Configuration Options
+5658,Container Security
+5659,Runtime Security
+5660,Image Security
+5661,Docker CLI
+5662,Images
+5663,Containers
+5664,Volumes
+5665,Networks
+5666,Developer Experience
+5667,Hot Reloading
+5668,Debuggers
+5669,Tests
+5670,Continuous Integration
+5671,Deploying Containers
+5672,PaaS Options
+5673,Kubernetes
+5674,Nomad
+5675,Docker Swarm
+5676,Introduction
+5677,Overview of Kubernetes
+5678,Why use Kubernetes?
+5679,Key Concepts and Terminologies
+5680,Kubernetes Alternatives
+5681,Containers
+5682,Setting up Kubernetes
+5683,Deploying your First Application
+5684,Choosing a Managed Provider
+5685,Installing a Local Cluster
+5686,Running Applications
+5687,Pods
+5688,ReplicaSets
+5689,Deployments
+5690,StatefulSets
+5691,Jobs
+5692,Services and Networking
+5693,External Access to Services
+5694,Load Balancing
+5695,Networking & Pod-to-Pod Communication
+5696,Configuration Management
+5697,Injecting Pod Config with ConfigMaps
+5698,Using Secrets for Sensitive Data
+5699,Resource Management
+5700,Setting Resource Requests and Limits
+5701,Assigning Quotas to Namespaces
+5702,Monitoring & Optimizing Resource Usage
+5703,Security
+5704,Role Based Access Control (RBAC)
+5705,Network Security
+5706,Container and Pod Security
+5707,Container and Pod Security
+5708,Monitoring and Logging
+5709,Logs
+5710,Metrics
+5711,Traces
+5712,Resource Health
+5713,Observability Engines
+5714,Autoscaling
+5715,Horizontal Pod Autoscaler (HPA)
+5716,Vertical Pod Autoscaler (VPA)
+5717,Cluster Autoscaling
+5718,Scheduling
+5719,Basics
+5720,Taints and Tolerations
+5721,Topology Spread Constraints
+5722,Pod Priorities
+5723,Evictions
+5724,Storage and Volumes
+5725,CSI Drivers
+5726,Stateful Applications
+5727,Deployment Patterns
+5728,CI / CD Integration
+5729,GitOps
+5730,Helm Charts
+5731,Canary Deployments
+5732,Rolling Updates / Rollbacks
+5733,Advanced Topics
+5734,Creating Custom Controllers
+5735,Custom Schedulers and Extenders
+5736,Custom Resource Definitions (CRDs)
+5737,Kubernetes Extensions and APIs
+5738,Should you manage your own Cluster?
+5739,Installing the Control Plane
+5740,Adding and Managing Worker Nodes
+5741,Multi-Cluster Management
+5742,Blue-Green Deployments
+5743,Navigation Basics
+5744,Basic Commands
+5745,Moving Files / Directories
+5746,Creating & Deleting Files / Dirs
+5747,Directory Hierarchy Overview
+5748,Editing Files
+5749,Shell and Other Basics
+5750,Vim
+5751,Nano
+5752,Command Path
+5753,Environment Variables
+5754,Command Help
+5755,Redirects
+5756,Super User
+5757,Working with Files
+5758,File Permissions
+5759,Archiving and Compressing
+5760,Copying and Renaming
+5761,Soft Links / Hard Links
+5762,Text Processing
+5763,stdout / stdin / stderr
+5764,cut
+5765,paste
+5766,sort
+5767,head
+5768,tr
+5769,tail
+5770,join
+5771,split
+5772,pipe
+5773,tee
+5774,nl
+5775,wc
+5776,expand
+5777,unexpand
+5778,uniq
+5779,grep
+5780,awk
+5781,Server Review
+5782,Uptime and Load
+5783,Authentication Logs
+5784,Services Running
+5785,Available Memory / Disk
+5786,Process Management
+5787,Background / Foreground Processes
+5788,Listing / Finding Processes
+5789,Process Signals
+5790,Killing Processes
+5791,Process Priorities
+5792,Process Forking
+5793,User Management
+5794,Create / Delete / Update
+5795,Users and Groups
+5796,Managing Permissions
+5797,Service Management (systemd)
+5798,Creating New Services
+5799,Checking Service Logs
+5800,Starting / Stopping Services
+5801,Checking Service Status
+5802,Package Management
+5803,Package Repositories
+5804,Finding & Installing Packages
+5805,Listing Installed Packages
+5806,Install / Remove / Upgrade Packages
+5807,Snap
+5808,Disks and Filesystems
+5809,Inodes
+5810,Filesystems
+5811,Swap
+5812,Mounts
+5813,Adding Disks
+5814,LVM
+5815,Booting Linux
+5816,Logs
+5817,Boot Loaders
+5818,Networking
+5819,TCP/IP Stack
+5820,Subnetting
+5821,Ethernet & arp/rarp
+5822,DHCP
+5823,IP Routing
+5824,DNS Resolution
+5825,Netfilter
+5826,SSH
+5827,File Transfer
+5828,Shell Programming
+5829,Literals
+5830,Variables
+5831,Loops
+5832,Conditionals
+5833,Debugging
+5834,Troubleshooting
+5835,ICMP
+5836,ping
+5837,traceroute
+5838,netstat
+5839,Packet Analysis
+5840,Containerization
+5841,ulimits
+5842,cgroups
+5843,Container Runtime
+5844,Docker
+5845,MongoDB Basics
+5846,SQL vs NoSQL
+5847,What is MongoDB?
+5848,When to use MongoDB?
+5849,What is MongoDB Atlas?
+5850,MongoDB Terminology
+5851,Data Model & Data Types
+5852,BSON vs JSON
+5853,Embedded Objects & Arrays
+5854,Double
+5855,String
+5856,Array
+5857,Object
+5858,Binary Data
+5859,Undefined
+5860,Object ID
+5861,Boolean
+5862,Date
+5863,Null
+5864,Regular Expression
+5865,JavaScript
+5866,Symbol
+5867,Int32/Int
+5868,Int64 / Long
+5869,Timestamp
+5870,Decimal128
+5871,Min Key
+5872,Max Key
+5873,Collections & Methods
+5874,Counting Documents
+5875,insert() and relevant
+5876,find() and relevant
+5877,update() and relevant
+5878,delete() and relevant
+5879,bulkWrite() and relevant
+5880,validate()
+5881,Read / Write Concerns
+5882,Cursors
+5883,Retryable Reads / Writes
+5884,Query Operators
+5885,$project
+5886,$include
+5887,$exclude
+5888,$slice
+5889,$eq
+5890,$gt
+5891,$lt
+5892,$lte
+5893,$gte
+5894,$ne
+5895,$in
+5896,$nin
+5897,$all
+5898,$elemMatch
+5899,$size
+5900,$exists
+5901,$type
+5902,$regex
+5903,$and
+5904,$or
+5905,$not
+5906,$nor
+5907,Performance Optimization
+5908,Creating Indexes
+5909,Single Field
+5910,Compound
+5911,Text
+5912,Expiring
+5913,Geospatial Indexes
+5914,Atlas Search Indexes
+5915,Query Optimization
+5916,Aggregation
+5917,$match
+5918,$group
+5919,$sort
+5920,$project
+5921,$skip
+5922,$limit
+5923,$unwind
+5924,$lookup
+5925,$sum
+5926,"Pipelines, Stages and Operators"
+5927,Transactions
+5928,Developer Tools
+5929,Language Drivers
+5930,Kafka
+5931,Spark
+5932,Elastic Search
+5933,mongodump
+5934,mongorestore
+5935,Scaling MongoDB
+5936,Replicasets
+5937,Sharded Clusters
+5938,Tuning Configuration
+5939,Indexing
+5940,Query Optimization
+5941,MongoDB Security
+5942,Role-based Access Control
+5943,X.509 Certificate Auth
+5944,Kerberos Authentication
+5945,LDAP Proxy Auth
+5946,MongoDB Audit
+5947,Encryption at Rest
+5948,Queryable Encryption
+5949,Client-Side Field Level
+5950,TLS / SSL Encryption
+5951,Introduction
+5952,LLMs and how they work?
+5953,What is a Prompt?
+5954,What is Prompt Engineering?
+5955,OpenAI
+5956,Google
+5957,Anthropic
+5958,Meta
+5959,xAI
+5960,LLM
+5961,Tokens
+5962,Context Window
+5963,Hallucination
+5964,Model Weights / Parameters
+5965,Fine-Tuning vs Prompt Engg.
+5966,RAG
+5967,Agents
+5968,Prompt Injection
+5969,AI vs AGI
+5970,Sampling Parameters
+5971,Temperature
+5972,Top-K
+5973,Top-P
+5974,Output Control
+5975,Max Tokens
+5976,Stop Sequences
+5977,Repetition Penalties
+5978,Frequency Penalty
+5979,Presence Penalty
+5980,Structured Outputs
+5981,Zero-Shot Prompting
+5982,One-Shot / Few-Shot Prompting
+5983,System Prompting
+5984,Role Prompting
+5985,Contextual Prompting
+5986,Step-back Prompting
+5987,Chain of Thought (CoT) Prompting
+5988,Self-Consistency Prompting
+5989,Tree of Thoughts (ToT) Prompting
+5990,ReAct Prompting
+5991,Automatic Prompt Engineering
+5992,AI Red Teaming
+5993,Prompt Debiasing
+5994,Prompt Ensembling
+5995,LLM Self Evaluation
+5996,Calibrating LLMs
+5997,Introduction
+5998,What is Terraform?
+5999,Usecases and Benefits
+6000,Installing Terraform
+6001,CaC vs IaC
+6002,Project Initialization
+6003,Providers
+6004,Terraform Registry
+6005,Configuring Providers
+6006,Versions
+6007,Hashicorp Config. Language (HCL)
+6008,What is Infrastructure as Code?
+6009,What is HCL?
+6010,Basic Syntax
+6011,Resources
+6012,Resource Behavior
+6013,Resource Lifecycle
+6014,depends_on
+6015,count
+6016,for_each
+6017,provider
+6018,lifecycle
+6019,Meta Arguments
+6020,Variables
+6021,Input Variables
+6022,Type Constraints
+6023,Environment Variables
+6024,Variable Definition File
+6025,Validation Rules
+6026,Local Values
+6027,Outputs
+6028,Output Syntax
+6029,Sensitive Outputs
+6030,Preconditions
+6031,Format & Validate
+6032,terraform fmt
+6033,terraform validate
+6034,TFLint
+6035,Deployment
+6036,terraform plan
+6037,terraform apply
+6038,Inspect / Modify State
+6039,graph
+6040,list
+6041,output
+6042,Clean Up
+6043,terraform destroy
+6044,State
+6045,Remote State
+6046,State Locking
+6047,Import Existing Resources
+6048,Splitting State Files
+6049,Versioning
+6050,Sensitive Data
+6051,Best Practices for State
+6052,-replace option in apply
+6053,show
+6054,rm
+6055,mv
+6056,Modules
+6057,Root vs Child Modules
+6058,Published Modules Usage
+6059,Creating Local Modules
+6060,Inputs / Outputs
+6061,Modules Best Practices
+6062,Provisioners
+6063,When to Use?
+6064,Creation / Destroy Time
+6065,file provisioner
+6066,local-exec provisioner
+6067,remote-exec provisioner
+6068,Custom Provisioners
+6069,Data Sources
+6070,Template Files
+6071,state pull / push
+6072,state replace-provider
+6073,state force-unlock
+6074,Workspaces
+6075,CI / CD Integration
+6076,GitHub Actions
+6077,Circle CI
+6078,GitLab CI
+6079,Jenkins
+6080,Testing
+6081,Unit Testing
+6082,Contract Testing
+6083,Integration Testing
+6084,End to End Testing
+6085,Testing Modules
+6086,Scaling Terraform
+6087,Splitting Large State
+6088,Parallelism
+6089,Deployment Workflow
+6090,Terragrunt
+6091,Infracost
+6092,Secret Management
+6093,Compliance / Sentinel
+6094,Trivy
+6095,KICS
+6096,Security
+6097,Terrascan
+6098,Checkov
+6099,HCP
+6100,What and when to use HCP?
+6101,Enterprise Features
+6102,Authentication
+6103,Workspaces
+6104,VCS Integration
+6105,Run Tasks
+6106,Version Management
+6107,Pick a Language
+6108,JavaScript
+6109,Java
+6110,Go
+6111,C#
+6112,C++
+6113,Python
+6114,Rust
+6115,Ruby
+6116,Programming Fundamentals
+6117,Language Syntax
+6118,Control Structures
+6119,Functions
+6120,OOP Basics
+6121,Pseudo Code
+6122,What are Data Structures?
+6123,Why are Data Structures Important?
+6124,Basic Data Structures
+6125,Array
+6126,Linked Lists
+6127,Stacks
+6128,Queues
+6129,Hash Tables
+6130,Algorithmic Complexity
+6131,Time vs Space Complexity
+6132,How to Calculate Complexity?
+6133,Common Runtimes
+6134,Constant
+6135,Logarithmic
+6136,Linear
+6137,Polynomial
+6138,Exponential
+6139,Factorial
+6140,Asymptotic Notation
+6141,Big-O Notation
+6142,Big-θ Notation
+6143,Big-Ω Notation
+6144,Sorting Algorithms
+6145,Bubble Sort
+6146,Merge Sort
+6147,Insertion Sort
+6148,Quick Sort
+6149,Selection Sort
+6150,Heap Sort
+6151,Search Algorithms
+6152,Linear Search
+6153,Binary Search
+6154,Tree Data Structures
+6155,Tree Traversal
+6156,Search Algorithms
+6157,Breadth First Search
+6158,Depth First Search
+6159,In-Order Traversal
+6160,Pre-Order Traversal
+6161,Post-Order Traversal
+6162,Binary Trees
+6163,Binary Search Trees
+6164,AVL Trees
+6165,B-Trees
+6166,Graph Data Structures
+6167,Directed Graph
+6168,Undirected Graph
+6169,Search Algorithms
+6170,Breadth First Search
+6171,Depth First Search
+6172,Shortest Path Algorithms
+6173,Dijkstra's Algorithm
+6174,Bellman-Ford Algoritm
+6175,Minimum Spanning Tree
+6176,Prim's Algorithm
+6177,Kruskal's Algorithm
+6178,Advanced Data Structures
+6179,Trie
+6180,Segment Trees
+6181,Fenwick Trees
+6182,Disjoint Set (Union-Find)
+6183,Suffix Trees and Arrays
+6184,Complex Data Structures
+6185,B/B+ Trees
+6186,Skip List
+6187,ISAM
+6188,2-3 Trees
+6189,Indexing
+6190,Linear
+6191,Tree-Based
+6192,Problem Solving Techniques
+6193,Brute Force
+6194,Backtracking
+6195,Greedy Algorithms
+6196,Randomised Algorithms
+6197,Divide and Conquer
+6198,Recursion
+6199,Dynamic Programming
+6200,Two Pointer Technique
+6201,Sliding Window Technique
+6202,Platforms to Practice
+6203,Leetcode
+6204,Edabit
+6205,Fast and Slow Pointers
+6206,Cyclic Sort
+6207,Merge Intervals
+6208,Kth Element
+6209,Two Heaps
+6210,Multi-threaded
+6211,Island traversal
+6212,Heap
+6213,A* Algorithm
+6214,Learn the Basics
+6215,What is Version Control?
+6216,Why use Version Control?
+6217,Git vs Other VCS
+6218,Installing Git Locally
+6219,What is a Repository
+6220,git init
+6221,git config
+6222,Local vs Global Config
+6223,Working Directory
+6224,Staging Area
+6225,Committing Changes
+6226,.gitignore
+6227,Viewing Commit History
+6228,Branching Basics
+6229,Creating Branch
+6230,Renaming Branch
+6231,Deleting Branch
+6232,Checkout Branch
+6233,Merging Basics
+6234,GitHub Essentials
+6235,Creating Account
+6236,GitHub Interface
+6237,Setting up Profile
+6238,Creating Repositories
+6239,Profile Readme
+6240,Private vs Public
+6241,Git Remotes
+6242,Managing Remotes
+6243,Pushing / Pulling Changes
+6244,Fetch without Merge
+6245,Collaboration on GitHub
+6246,Forking vs Cloning
+6247,Issues
+6248,Cloning Repositories
+6249,Pull Requests
+6250,PR from a Fork
+6251,Collaborators
+6252,Labelling Issues / PRs
+6253,Saved Replies
+6254,Mentions
+6255,Reactions
+6256,Merge Strategies
+6257,Fast-Forward vs Non-FF
+6258,Handling Conflicts
+6259,Rebase
+6260,Squash
+6261,Cherry Picking Commits
+6262,Commit Messages
+6263,Branch Naming
+6264,PR Guidelines
+6265,Code Reviews
+6266,Contribution Guidelines
+6267,Documentation
+6268,Markdown
+6269,Project Readme
+6270,GitHub Wikis
+6271,Clean Git History
+6272,Working in a Team
+6273,GitHub Organizations
+6274,Collaborators / Members
+6275,Teams within Organization
+6276,GitHub Projects
+6277,Project Planning
+6278,Kanban Boards
+6279,Roadmaps
+6280,Automations
+6281,GitHub Discussions
+6282,Git Stash Basics
+6283,History
+6284,Linear vs Non-Linear
+6285,HEAD
+6286,Detached HEAD
+6287,git log options
+6288,Undoing Changes
+6289,git revert
+6290,git reset
+6291,--soft
+6292,--hard
+6293,--mixed
+6294,Viewing Diffs
+6295,Between Commits
+6296,Between Branches
+6297,Staged Changes
+6298,Unstaged Changes
+6299,Rewriting History
+6300,git commit --amend
+6301,git rebase
+6302,git filter-branch
+6303,git push --force
+6304,Tagging
+6305,Managing Tags
+6306,Pushing Tags
+6307,Checkout Tags
+6308,GitHub Releases
+6309,Git hooks
+6310,What and Why?
+6311,Client vs Server Hooks
+6312,commit-msg
+6313,post-checkout
+6314,post-update
+6315,pre-commit
+6316,pre-push
+6317,Submodules
+6318,Adding / Updating
+6319,What and Why use?
+6320,GitHub CLI
+6321,Installation and Setup
+6322,Repository management
+6323,Issue Management
+6324,Pull Requests
+6325,GitHub Actions
+6326,YAML Syntax
+6327,Workflow Triggers
+6328,Scheduled Worfklows
+6329,Workflow Runners
+6330,Workflow Context
+6331,Secrets and Env Vars
+6332,Caching Dependencies
+6333,Storing Artifacts
+6334,Workflow Status
+6335,Marketplace Actions
+6336,Usecases
+6337,What are these?
+6338,Use in Automation
+6339,Git Patch
+6340,Git Reflog
+6341,Git Bisect
+6342,Git Worktree
+6343,Git Attributes
+6344,Git LFS
+6345,GitHub API
+6346,REST API
+6347,GraphQL API
+6348,Creating Apps
+6349,GitHub Apps
+6350,OAuth Apps
+6351,Webhooks
+6352,GitHub Sponsors
+6353,GitHub Pages
+6354,GitHub Gists
+6355,GitHub Packages
+6356,Deploying Static Websites
+6357,Custom Domains
+6358,Static Site Generators
+6359,GitHub Codespaces
+6360,GitHub Education
+6361,Student Developer Pack
+6362,GitHub Classroom
+6363,Campus Program
+6364,GitHub Marketplace
+6365,GitHub Security
+6366,GitHub Models
+6367,GitHub Copilot
+6368,CITATION files
+6369,What is Redis?
+6370,In-memory Data Structure Store
+6371,Key-value Database
+6372,Cache
+6373,Message Broker
+6374,Caching
+6375,Real-time Analytics
+6376,Session Management
+6377,Pub/Sub Messaging
+6378,Leaderboards and Counters
+6379,Data Persistence Options
+6380,Rich Data Structures
+6381,High Performance and Scalability
+6382,Redis vs SQL/NoSQL DBs
+6383,When to choose Redis?
+6384,Using Package Managers
+6385,Pre-compiled Binaries
+6386,Using Docker
+6387,Starting the Server
+6388,Connecting using Redis CLI
+6389,"Basic Commands / SET, GET"
+6390,and Getting Keys
+6391,DEL
+6392,Overview of Data Types
+6393,SET
+6394,GET
+6395,INCR
+6396,DECR
+6397,APPEND
+6398,STRLEN
+6399,More Commands
+6400,Usecases
+6401,expire
+6402,TTL
+6403,LPUSH
+6404,RPUSH
+6405,LPOP
+6406,RPOP
+6407,LRANGE
+6408,LINDEX
+6409,LLEN
+6410,LMOVE
+6411,More Commands
+6412,Usecases
+6413,Sets
+6414,SADD
+6415,SMEMBERS
+6416,SREM
+6417,SISMEMBER
+6418,SINTER
+6419,SCARD
+6420,SUNION
+6421,SDIFF
+6422,More Commands
+6423,Usecases
+6424,More Commands
+6425,Strings
+6426,Lists
+6427,Hashes
+6428,HSET
+6429,HGET
+6430,HGETALL
+6431,HDEL
+6432,HEXISTS
+6433,Usecases
+6434,Sorted Sets
+6435,ZADD
+6436,ZRANGE
+6437,ZRANGEBYSCORE
+6438,ZREM
+6439,ZINCRBY
+6440,ZRANK
+6441,ZCOUNT
+6442,More Commands
+6443,Usecases
+6444,More Commands
+6445,Naming Conventions
+6446,Retrieval by Pattern
+6447,Expiration
+6448,Atomicity in Redis
+6449,Pipelining
+6450,Batch Operations
+6451,Bitmaps
+6452,SETBIT
+6453,GETBIT
+6454,BITCOUNT
+6455,BITOP
+6456,BITPOS
+6457,Usecases
+6458,HyperLogLog
+6459,PFADD
+6460,PFCOUNT
+6461,PFMERGE
+6462,Usecases
+6463,Streams
+6464,XADD
+6465,XREAD
+6466,XRANGE
+6467,XLEN
+6468,Usecases
+6469,More Commands
+6470,Geospatial Indexes
+6471,GEOADD
+6472,GEOSEARCH
+6473,Usecases
+6474,More Commands
+6475,Pub/Sub
+6476,SUBSCRIBE
+6477,UNSUBSCRIBE
+6478,PUBLISH
+6479,More Commands
+6480,Usecases
+6481,Transactions
+6482,WATCH
+6483,EXEC
+6484,MULTI
+6485,Optimistic Locking
+6486,Lua Scripting
+6487,EVAL
+6488,EVALSHA
+6489,Usecases
+6490,Persistence Options
+6491,How RDB Works?
+6492,Configuring Save Interval
+6493,Usecases / Best Practices
+6494,How AOF Works?
+6495,AOF rewrite & compaction
+6496,Truncation / Corruption
+6497,Usecases
+6498,Usecases / Best Practices
+6499,No Persistence Option
+6500,RDB vs AOF Tradeoffs
+6501,Hybrid Persistence
+6502,Replication Basics
+6503,Redis Sentinel
+6504,Clustering
+6505,Authentication
+6506,Network Security
+6507,SSL/TLS Encryption
+6508,INFO
+6509,MONITOR
+6510,RedisInsight
+6511,RedisCommander
+6512,Memory Management
+6513,Max Memory Policy
+6514,Slow Log Analysis
+6515,redis-benchmark
+6516,Monitoring
+6517,Redis Modules
+6518,RedisJSON
+6519,Search
+6520,RedisTimeSeries
+6521,RedisBloom
+6522,redis.conf
+6523,Backup and Recovery
+6524,Upgrading Redis
+6525,Disaster Recovery
+6526,Redis Enterprise
+6527,Active-Active geo Distribution
+6528,Redis on Flash
+6529,Security and Compliance
+6530,When to consider enterprise?
+6531,Introduction to PHP
+6532,Evolution and History
+6533,PHP Versions and Features
+6534,What is PHP?
+6535,Installing PHP
+6536,WAMP
+6537,XAMPP
+6538,MAMP
+6539,LAMP
+6540,Basic PHP Syntax
+6541,Variables and Scope
+6542,Data Types
+6543,echo
+6544,print
+6545,var_dump
+6546,print_r
+6547,Casting Data Types
+6548,Arrays
+6549,Indexed Arrays
+6550,Associative Arrays
+6551,Multi-dimensional Arrays
+6552,Conditionals
+6553,if/else
+6554,switch
+6555,match
+6556,Null Coalescing Operator
+6557,Null Safe Operator
+6558,Loops
+6559,Constants
+6560,Functions
+6561,Function Declaration
+6562,Parameters / Return Values
+6563,Default / Optional Params
+6564,Named Arguments
+6565,Anonymous Functions
+6566,Arrow Functions
+6567,Callback Functions
+6568,Recursion
+6569,Variadic Functions
+6570,require
+6571,require_once
+6572,include
+6573,include_once
+6574,Writing Files
+6575,Reading Files
+6576,File Permissions
+6577,JSON Processing
+6578,CSV Processing
+6579,XML Processing
+6580,HTTP Methods
+6581,$_GET
+6582,$_POST
+6583,$_REQUEST
+6584,$_SERVER
+6585,Form Processing
+6586,File Uploads
+6587,State Management
+6588,Cookies
+6589,Sessions
+6590,Input Validation
+6591,XSS Prevention
+6592,SQL Injection
+6593,CSRF Protection
+6594,Password Hashing
+6595,Auth Mechanisms
+6596,Sanitization Techniques
+6597,PDO
+6598,MySQLi
+6599,Object-Relational Mapping (ORM)
+6600,Database Transactions
+6601,Connection Pooling
+6602,Performance Optimization
+6603,Database Migrations
+6604,Classes and Objects
+6605,Constructor / Destructor
+6606,Properties and Methods
+6607,Access Specifiers
+6608,Static Methods and Properties
+6609,Inheritance
+6610,OOP Fundamentals
+6611,Polymorphism
+6612,Abstract classes
+6613,Interfaces
+6614,Traits
+6615,Namespaces
+6616,Magic methods
+6617,Dependency injection
+6618,Type Declarations
+6619,Laravel
+6620,Symfony
+6621,Composer
+6622,Packagist
+6623,Autoloading
+6624,PHPUnit
+6625,Pest
+6626,Style Tools
+6627,PHPCodeSniffer
+6628,PHP CS Fixer
+6629,Static Analysis
+6630,PHPStan
+6631,Phan
+6632,Psalm
+6633,cURL
+6634,Guzzle
+6635,PHP-FIG
+6636,PSR Standards
+6637,Profiling Techniques
+6638,Caching Strategies
+6639,Memory Management
+6640,Configuration Tuning
+6641,Opcode Caching
+6642,Executing System Commands
+6643,Process Control
+6644,Environment Variables
+6645,Configuration Files
+6646,Xdebug
+6647,Zend Debugger
+6648,Apache
+6649,Nginx
+6650,PHP-FPM
+6651,JavaScript Fundamentals
+6652,Basic Command-line Knowledge
+6653,HTTP and Web Protocols
+6654,Git Basics
+6655,Node.js and NPM
+6656,TypeScript Fundamentals
+6657,Understand Serverless Architecture
+6658,Workers Runtime Environment
+6659,Edge Computing Fundamentals
+6660,Request/Response Handling
+6661,Fetch API and Runtime APIs
+6662,Workers Lifecycle
+6663,Service Bindings
+6664,Caching Strategies
+6665,Middleware Patterns
+6666,Bindings
+6667,Hono
+6668,Itty Router
+6669,Wrangler
+6670,DevTools Integration
+6671,CI/CD Pipelines
+6672,Any Frontend Framework
+6673,Miniflare
+6674,Workers KV
+6675,Key-value Operations
+6676,Metadata Handling
+6677,Bulk Operations
+6678,Caching Patterns
+6679,R2 Storage
+6680,Object Storage
+6681,Large File Handling
+6682,Asset Management
+6683,Bucket Operations
+6684,Bucket Lifecycle
+6685,D1
+6686,Schema Management
+6687,Migrations
+6688,Query Optimization
+6689,Drizzle
+6690,Prisma
+6691,Queues
+6692,Message Processing
+6693,Background Jobs
+6694,Rate Limiting
+6695,Dead Letter Queues
+6696,Durable Objects
+6697,State Management
+6698,Coordination
+6699,Persistence
+6700,Transactional Operations
+6701,Workflows
+6702,Workers AI
+6703,Text Generation
+6704,Image Processing
+6705,Speech Rcognition
+6706,AI Model Integration
+6707,Vectorize
+6708,Vector Embeddings
+6709,Similarity Search
+6710,AI-powered Search
+6711,Stream
+6712,Video Delivery
+6713,Live streaming
+6714,Video Processing
+6715,Images
+6716,Calls
+6717,Logging and Monitoring
+6718,Email Workers
+6719,Routing
+6720,Processing
+6721,Filtering
+6722,AI Gateway
+6723,Browser Rendering
+6724,Security & Performance
+6725,Workers Security Model
+6726,Isolates Architecture
+6727,Web Security Headers
+6728,Rate Limiting
+6729,Cache API
+6730,HTML Rewriting
+6731,Edge SSL/TLS
+6732,Bot Management
+6733,Integration & Workflows
+6734,Pages Functions
+6735,Service Bindings
+6736,Inter Worker Communication
+6737,External API Integration
+6738,Webhook Handling
+6739,Event-driven Architectures
+6740,Development Tools
+6741,Wrangler
+6742,Miniflare
+6743,DevTools
+6744,Testing Frameworks
+6745,Monitoring Tools
+6746,Debugging Techniques
+6747,Tunnels
+6748,Basic Backend Development
+6749,Git and Terminal Usage
+6750,REST API Knowledge
+6751,Transformer Models and LLMs
+6752,Tokenization
+6753,Context Windows
+6754,Token Based Pricing
+6755,Temperature
+6756,Frequency Penalty
+6757,Presence Penalty
+6758,Top-p
+6759,Stopping Criteria
+6760,Open Weight Models
+6761,Closed Weight Models
+6762,Streamed vs Unstreamed Responses
+6763,Reasoning vs Standard Models
+6764,Fine-tuning vs Prompt Engineering
+6765,Embeddings and Vector Search
+6766,Understand the Basics of RAG
+6767,Pricing of Common Models
+6768,What are AI Agents?
+6769,What are Tools?
+6770,Agent Loop
+6771,Perception / User Input
+6772,Reason and Plan
+6773,Acting / Tool Invocation
+6774,Observation & Reflection
+6775,Personal assistant
+6776,Code generation
+6777,Data analysis
+6778,Web Scraping / Crawling
+6779,NPC / Game AI
+6780,Max Length
+6781,What is Prompt Engineering
+6782,Be specific in what you want
+6783,Provide additional context
+6784,Use relevant technical terms
+6785,Use Examples in your Prompt
+6786,Iterate and Test your Prompts
+6787,"Specify Length, format etc"
+6788,Tool Definition
+6789,Web Search
+6790,Code Execution / REPL
+6791,Database Queries
+6792,API Requests
+6793,Email / Slack / SMS
+6794,File System Access
+6795,What is Agent Memory?
+6796,Short Term Memory
+6797,Long Term Memory
+6798,Episodic vs Semantic Memory
+6799,RAG and Vector Databases
+6800,User Profile Storage
+6801,Summarization / Compression
+6802,Forgetting / Aging Strategies
+6803,ReAct (Reason + Act)
+6804,Model Context Protocol (MCP)
+6805,MCP Hosts
+6806,MCP Client
+6807,MCP Servers
+6808,Creating MCP Servers
+6809,Local Desktop
+6810,Remote / Cloud
+6811,Chain of Thought (CoT)
+6812,RAG Agent
+6813,Planner Executor
+6814,DAG Agents
+6815,Tree-of-Thought
+6816,Manual (from scratch)
+6817,"LLM Native ""Function Calling"""
+6818,OpenAI Functions Calling
+6819,Gemini Function Calling
+6820,OpenAI Assistant API
+6821,Langchain
+6822,LlamaIndex
+6823,Haystack
+6824,AutoGen
+6825,CrewAI
+6826,Smol Depot
+6827,Anthropic Tool Use
+6828,Metrics to Track
+6829,Unit Testing for Individual Tools
+6830,Integration Testing for Flows
+6831,Human in the Loop Evaluation
+6832,LangSmith
+6833,Ragas
+6834,DeepEval
+6835,Structured logging & tracing
+6836,LangSmith
+6837,Helicone
+6838,LangFuse
+6839,openllmetry
+6840,Prompt Injection / Jailbreaks
+6841,Tool sandboxing / Permissioning
+6842,Data Privacy + PII Redaction
+6843,Bias & Toxicity Guardrails
+6844,Safety + Red Team Testing
+6845,AI Security Fundamentals
+6846,Why Red Team AI Systems?
+6847,Introduction
+6848,Ethical Considerations
+6849,Role of Red Teams
+6850,Supervised Learning
+6851,Unsupervised Learning
+6852,Reinforcement Learning
+6853,Neural Networks
+6854,Generative Models
+6855,Large Language Models
+6856,Prompt Engineering
+6857,"Confidentiality, Integrity, Availability"
+6858,Threat Modeling
+6859,Risk Management
+6860,Vulnerability Assessment
+6861,Jailbreak Techniques
+6862,Safety Filter Bypasses
+6863,Prompt Injection
+6864,Prompt Hacking
+6865,Direct
+6866,Indirect
+6867,Countermeasures
+6868,Code Injection
+6869,Model Vulnerabilities
+6870,Model Weight Stealing
+6871,Unauthorized Access
+6872,Data Poisoning
+6873,Adversarial Examples
+6874,Model Inversion
+6875,Adversarial Training
+6876,Robust Model Design
+6877,Continuous Monitoring
+6878,Insecure Deserialization
+6879,Remote Code Execution
+6880,Infrastructure Security
+6881,API Protection
+6882,Authentication
+6883,Authentication
+6884,Black Box Testing
+6885,White Box Testing
+6886,Grey Box Testing
+6887,Automated vs Manual
+6888,Continuous Testing
+6889,Testing Platforms
+6890,Monitoring Solutions
+6891,Benchmark Datasets
+6892,Custom Testing Scripts
+6893,Reporting Tools
+6894,Specialized Courses
+6895,Industry Credentials
+6896,Lab Environments
+6897,CTF Challenges
+6898,Red Team Simulations
+6899,Conferences
+6900,Research Groups
+6901,Forums
+6902,LLM Security Testing
+6903,Agentic AI Security
+6904,Responsible Disclosure
+6905,Emerging Threats
+6906,Advanced Techniques
+6907,Research Opportunities
+6908,Industry Standards
